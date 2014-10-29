@@ -1,0 +1,21 @@
+no. of ints in file: 200
+zero-sum combinations: 9050
+Elapsed time: 0.035
+no. of ints in file: 800
+zero-sum combinations: 600800
+Elapsed time: 0.204
+no. of ints in file: 1000
+zero-sum combinations: 1176250
+Elapsed time: 0.408
+no. of ints in file: 2000
+zero-sum combinations: 9455000
+Elapsed time: 2.729
+no. of ints in file: 4000
+zero-sum combinations: 75820000
+Elapsed time: 23.141
+no. of ints in file: 8000
+zero-sum combinations: 607280000
+Elapsed time: 196.638
+no. of ints in file: 16000
+zero-sum combinations: 566152704
+Elapsed time: 1565.008

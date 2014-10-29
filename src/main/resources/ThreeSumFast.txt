@@ -1,0 +1,37 @@
+no. of ints in file: 16000
+zero-sum combinations: 5276400
+Elapsed time: 3.453
+no. of ints in file: 16000
+no. of ints in file: 16000
+no. of ints in file: 10000
+zero-sum combinations: 0
+Elapsed time: 1.47
+no. of ints in file: 0
+zero-sum combinations: 0
+Elapsed time: 0.017
+no. of ints in file: 10000
+no. of ints in file: 10001
+zero-sum combinations: 5000
+Elapsed time: 2.201
+no. of ints in file: 0
+zero-sum combinations: 0
+Elapsed time: 0.019
+no. of ints in file: 10007
+zero-sum combinations: 12490027
+Elapsed time: 2.254
+no. of ints in file: 10007
+no. of ints in file: 0
+zero-sum combinations: 0
+Elapsed time: 0.018
+no. of ints in file: 10001
+zero-sum combinations: 12500000
+Elapsed time: 2.248
+no. of ints in file: 10001
+zero-sum combinations: 12500000
+Elapsed time: 2.342
+no. of ints in file: 10001
+zero-sum combinations: 12500000
+Elapsed time: 2.274
+no. of ints in file: 10001
+zero-sum combinations: 12500000
+Elapsed time: 1.881
