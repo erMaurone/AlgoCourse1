@@ -30,6 +30,9 @@ package princeton.algs4; /******************************************************
  *
  *************************************************************************/
 
+import princeton.stdlib.In;
+import princeton.stdlib.StdOut;
+
 /**
  *  The <tt>TransitiveClosure</tt> class represents a data type for 
  *  computing the transitive closure of a digraph.
