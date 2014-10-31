@@ -69,6 +69,7 @@ public class PercolationExperiment implements Percolation {
     }
 
     public boolean isOpen(int i, int j) {
+        validateIndices(i,j);
         boolean result = false;
         if ( 1 == matrix[atIndex(i)][atIndex(j)])
               result = true;
@@ -80,6 +81,7 @@ public class PercolationExperiment implements Percolation {
     }
 
     public boolean isFull(int i, int j) {
+        validateIndices(i,j);
         int cellExamined = xyTo1D(atIndex(i), atIndex(j));
         return unionFind.connected(cellExamined, topRoot);
     }
@@ -103,8 +105,6 @@ public class PercolationExperiment implements Percolation {
     public static void main(String[] args) {
         // incorrect argument - expecting exception
         Percolation experiment = new PercolationExperiment(4);
-
-
 
     }
 }

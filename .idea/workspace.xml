@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__gov_nist_math_jama_gov_nist_math_jama_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/ThreeSum/ThreeSumDeluxe.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ThreeSum/ThreeSumDeluxe.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/ThreeSum/ThreeSumSlow.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/ThreeSum/ThreeSumSlow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/unionFind/QuickFindUF.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/unionFind/QuickFindUF.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/unionFind/QuickUnionUF.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/unionFind/QuickUnionUF.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/unionFind/WeightedQuickUnionPathCompression.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/unionFind/WeightedQuickUnionPathCompression.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lessonOne/unionFind/WeightedQuickUnionUF.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/unionFind/WeightedQuickUnionUFmv.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/BinaryIn.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryIn.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/BinaryOut.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryOut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/BinaryStdIn.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryStdIn.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/BinaryStdOut.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryStdOut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/Draw.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/Draw.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/DrawListener.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/DrawListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/In.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/In.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/Out.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/Out.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/Picture.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/Picture.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdArrayIO.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdArrayIO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdAudio.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdAudio.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdDraw.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdIn.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdIn.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdInTest.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdInTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdOut.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdOut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdRandom.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdRandom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/StdStats.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdStats.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/Stopwatch.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/Stopwatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/Test.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/utilsPrinceton/UnicodeTest.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/stdlib/UnicodeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgoCourse1.iml" afterPath="$PROJECT_DIR$/AlgoCourse1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
@@ -57,13 +24,13 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414758264633" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414758341613" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
     <file path="/EdgeWeightedDirectedCycle.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414688828828" ignored="false" />
     <file path="/EdgeWeightedDigraph.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414688845732" ignored="false" />
-    <file path="/PercolationExperiment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748830965" ignored="false" />
+    <file path="/PercolationExperiment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414759220875" ignored="false" />
     <file path="/PercolationExperimentTest.groovy" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414749291344" ignored="false" />
     <file path="/pom.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414749103885" ignored="false" />
     <file path="/RunLength.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414749683215" ignored="false" />
@@ -72,6 +39,7 @@
     <file path="/BinaryStdOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414751000144" ignored="false" />
     <file path="/Out.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414751421419" ignored="false" />
     <file path="/Topological.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414752622909" ignored="false" />
+    <file path="/PercolationExperimentTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414771785724" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,37 +122,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PercolationExperimentTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PercolationExperimentTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="12" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.33239436">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryStdIn.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryStdIn.java">
+      <file leaf-file-name="PercolationExperiment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="227" column="17" selection-start="7772" selection-end="7772" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StdDraw.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="17" selection-start="6006" selection-end="6006" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Draw.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Draw.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="227" column="17" selection-start="7685" selection-end="7685" vertical-scroll-proportion="0.09119011">
+            <state line="107" column="0" selection-start="3380" selection-end="3380" vertical-scroll-proportion="-7.148148">
               <folding />
             </state>
           </provider>
@@ -208,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/SuffixArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/TransitiveClosure.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/TrieSET.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Vector.java" />
@@ -220,10 +171,11 @@
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Knuth.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/IndexMaxPQ.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/IndexMinPQ.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryStdIn.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/Draw.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
       </list>
     </option>
   </component>
@@ -302,9 +254,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="33" />
-    <option name="width" value="1356" />
+    <option name="x" value="3" />
+    <option name="y" value="56" />
+    <option name="width" value="1641" />
     <option name="height" value="840" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -550,44 +502,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="princeton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stdlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="princeton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algs4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -737,28 +651,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.PercolationExperimentTest">
-    <configuration default="false" name="WeightedQuickUnionUFmv" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1.unionFind.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson1.unionFind.WeightedQuickUnionUFmv" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="PercolationExperimentTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -861,6 +753,34 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PercolationExperimentTest.testPerculatorInitialState" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lesson1.MonteCarloPerculations" />
+      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationExperimentTest" />
+      <option name="METHOD_NAME" value="testPerculatorInitialState" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1008,19 +928,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WeightedQuickUnionUFmv" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
-      <item index="3" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [clean]" />
-      <item index="4" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
-      <item index="5" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [test]" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [clean]" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [test]" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest.testPerculatorInitialState" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
-        <item index="1" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [test]" />
-        <item index="2" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
-        <item index="3" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [clean]" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WeightedQuickUnionUFmv" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest.testPerculatorInitialState" />
+        <item index="2" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [test]" />
+        <item index="3" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+        <item index="4" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [clean]" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1154,7 +1074,11 @@
       <created>1414757399755</created>
       <updated>1414757399755</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="first test run successfully">
+      <created>1414758357512</created>
+      <updated>1414758357512</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1178,7 +1102,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="33" width="1356" height="840" extended-state="0" />
+    <frame x="3" y="56" width="1641" height="840" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1196,12 +1120,12 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6536857" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24846625" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2231595" sideWeight="0.3463143" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20390183" sideWeight="0.5382476" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2231595" sideWeight="0.60500693" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3136503" sideWeight="0.3463143" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31015298" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31340465" sideWeight="0.5382476" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46175244" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1277,20 +1201,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/SymbolDigraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="8" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/TransitiveClosure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="10" selection-start="2997" selection-end="2997" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1299,7 +1214,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="13" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1315,7 +1230,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="13" selection-start="1339" selection-end="1339" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1324,7 +1239,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="22" selection-start="1060" selection-end="1060" vertical-scroll-proportion="-4.56">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1333,7 +1248,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="23" selection-start="1146" selection-end="1146" vertical-scroll-proportion="-4.56">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1342,7 +1257,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="167" column="12" selection-start="5788" selection-end="5788" vertical-scroll-proportion="-4.56">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1351,7 +1266,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="174" column="12" selection-start="5714" selection-end="5714" vertical-scroll-proportion="-6.48">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1360,7 +1275,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="14" selection-start="2003" selection-end="2003" vertical-scroll-proportion="-4.2">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1376,15 +1291,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="137" column="53" selection-start="5278" selection-end="5278" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1404,8 +1312,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Draw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="17" selection-start="7685" selection-end="7685" vertical-scroll-proportion="0.09119011">
+        <state line="227" column="17" selection-start="7685" selection-end="7685" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="0" selection-start="3380" selection-end="3380" vertical-scroll-proportion="-7.148148">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="257" selection-end="257" vertical-scroll-proportion="0.33239436">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
