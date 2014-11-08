@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson1/binarySearch/BeautifulBinarySearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/princeton/algs4/Stack.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/algs4/Stack.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415186336335" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415399454564" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -28,7 +34,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228441308" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228526965" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -47,6 +53,17 @@
     <file path="/a.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415044224849" ignored="false" />
     <file path="/PercolationStats.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415226663955" ignored="false" />
     <file path="/PercolationStatsTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228192269" ignored="false" />
+    <file path="/PercolationVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228797542" ignored="false" />
+    <file path="/InteractivePercolationVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228812943" ignored="false" />
+    <file path="/BeatifulBinarySearch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415267102166" ignored="false" />
+    <file path="/LinkedStackOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415400684154" ignored="false" />
+    <file path="/ArrayStackOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415399857856" ignored="false" />
+    <file path="/ResizingArrayStackOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415399976738" ignored="false" />
+    <file path="/LinkedQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415400486520" ignored="false" />
+    <file path="/ArrayQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415401653605" ignored="false" />
+    <file path="/ResizingArrayQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415401956404" ignored="false" />
+    <file path="/ArrayStackGenerics.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415402380619" ignored="false" />
+    <file path="/EvaluateArithmeticExpressionWithStack.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415447780222" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,43 +191,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PercolationStats.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java">
+      <file leaf-file-name="LinkedStackOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="6" selection-start="1856" selection-end="1856" vertical-scroll-proportion="-6.4">
+            <state line="27" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayQueueOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="222" selection-end="721" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResizingArrayQueueOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="23" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayStackGenerics.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="34" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#281#311#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PercolationExperimentTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java">
+      <file leaf-file-name="EvaluateArithmeticExpressionWithStack.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="10" selection-start="4101" selection-end="4101" vertical-scroll-proportion="0.0">
+            <state line="21" column="75" selection-start="739" selection-end="739" vertical-scroll-proportion="0.37878788">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#650#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PercolationStatsTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java">
+      <file leaf-file-name="ArrayStackOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="20" selection-start="2598" selection-end="2598" vertical-scroll-proportion="2.227723">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="29" column="26" selection-start="578" selection-end="649" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PercolationExperiment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java">
+      <file leaf-file-name="ResizingArrayStackOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="33" selection-start="3045" selection-end="3045" vertical-scroll-proportion="-55.0">
+            <state line="37" column="8" selection-start="856" selection-end="905" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedQueueOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="44" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -234,22 +286,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Vector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/WhiteFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/LRS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/LZW.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Merge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/GabowSCC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Knuth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/IndexMaxPQ.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/IndexMinPQ.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/BinaryStdIn.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/stdlib/Draw.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson1/binarySearch/BeatifulBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson1/binarySearch/BeautifulBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/LinkedStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java" />
       </list>
     </option>
   </component>
@@ -677,34 +729,8 @@
               <option name="myItemId" value="princeton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unionFind" />
+              <option name="myItemId" value="algs4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,11 +756,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThreeSum" />
+              <option name="myItemId" value="dataStructures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -757,14 +779,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MonteCarloPerculations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -820,12 +834,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson2.dataStructures" />
       <recent name="princeton" />
       <recent name="lesson1.ThreeSum" />
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.lesson1.MonteCarloPerculations in AlgoCourse1">
+  <component name="RunManager" selected="Application.InteractivePercolationVisualizer">
     <configuration default="false" name="PercolationExperimentTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -840,74 +855,6 @@
       <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationExperimentTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PercolationStatsTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="AlgoCourse1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson1.MonteCarloPerculations" />
-      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationStatsTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PercolationStatsTest.testMean" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="AlgoCourse1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson1.MonteCarloPerculations" />
-      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationStatsTest" />
-      <option name="METHOD_NAME" value="testMean" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -980,6 +927,50 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationVisualizer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoCourse1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.InteractivePercolationVisualizer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoCourse1" />
+      <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1155,18 +1146,18 @@
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
       <item index="2" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PercolationStatsTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PercolationStatsTest.testMean" />
-      <item index="5" class="java.lang.String" itemvalue="Application.PercolationStats" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.lesson1.MonteCarloPerculations in AlgoCourse1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PercolationStats" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.lesson1.MonteCarloPerculations in AlgoCourse1" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PercolationVisualizer" />
+      <item index="6" class="java.lang.String" itemvalue="Application.InteractivePercolationVisualizer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.lesson1.MonteCarloPerculations in AlgoCourse1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PercolationStats" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PercolationStatsTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PercolationStatsTest.testMean" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InteractivePercolationVisualizer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PercolationVisualizer" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.lesson1.MonteCarloPerculations in AlgoCourse1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PercolationExperimentTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PercolationStats" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1311,7 +1302,11 @@
       <created>1414773023926</created>
       <updated>1414773023926</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="completed percolation assignment">
+      <created>1415228542460</created>
+      <updated>1415228542460</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1336,7 +1331,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -1353,13 +1348,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2059925" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27161384" sideWeight="0.5093633" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22262248" sideWeight="0.6229713" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22262248" sideWeight="0.6229713" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28818443" sideWeight="0.670412" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3770287" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28818443" sideWeight="0.6229713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3770287" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1436,97 +1431,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runner/JUnitCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="0" selection-start="6115" selection-end="6115" vertical-scroll-proportion="0.6137072">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="316" column="0" selection-start="11600" selection-end="11600" vertical-scroll-proportion="0.3044776">
-          <folding>
-            <element signature="e#9008#9147#0" expanded="false" />
-            <element signature="e#9136#9137#0" expanded="false" />
-            <element signature="e#9300#9448#0" expanded="false" />
-            <element signature="e#9433#9434#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.5258621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1434" selection-end="1489" vertical-scroll-proportion="0.3323782">
-          <folding>
-            <element signature="e#1501#1502#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Stopwatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="63" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.020215634">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/WeightedQuickUnionUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="0" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="20" selection-start="3135" selection-end="3135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="49" selection-start="5694" selection-end="5694" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="25" selection-start="4960" selection-end="4960" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="33" selection-start="3045" selection-end="3045" vertical-scroll-proportion="-55.0">
@@ -1554,9 +1458,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="20" selection-start="2598" selection-end="2598" vertical-scroll-proportion="2.227723">
+        <state line="75" column="20" selection-start="2598" selection-end="2598" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="53" selection-start="2037" selection-end="2037" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/binarySearch/BeautifulBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="55" selection-start="3574" selection-end="3574" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="44" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="222" selection-end="721" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="8" selection-start="856" selection-end="905" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="23" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="26" selection-start="578" selection-end="649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="34" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#281#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="75" selection-start="739" selection-end="739" vertical-scroll-proportion="0.37878788">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#650#658#0" expanded="true" />
           </folding>
         </state>
       </provider>

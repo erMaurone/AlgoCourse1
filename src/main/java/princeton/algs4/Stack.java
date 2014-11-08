@@ -1,4 +1,6 @@
-package princeton.algs4; /*************************************************************************
+package princeton.algs4;
+
+/*************************************************************************
  *  Compilation:  javac Stack.java
  *  Execution:    java Stack < input.txt
  *
