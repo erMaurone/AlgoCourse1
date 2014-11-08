@@ -7,10 +7,6 @@ package lesson2.dataStructures;
 *  A stack with N items uses ~40N bytes.bytes
 * 16 bytes class overhead + 8 bytes inner class overhead + 8 bytes String ref. + 8 bytes Node ref = ~40bytes per element
 *
-* Created with IntelliJ IDEA.
-* User: mauro
-* Date: 07/11/2014
-* Time: 22:44
 * LIFO - Adding at the top and removing from the top
 */
 
