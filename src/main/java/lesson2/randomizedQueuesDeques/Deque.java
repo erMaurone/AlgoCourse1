@@ -47,7 +47,6 @@ public class Deque<Item> {
         Node oldlast = last;
         last = new Node();
         last.item = item;
-        last.next = null;
         last.previous = oldlast;
         size++;
     }
