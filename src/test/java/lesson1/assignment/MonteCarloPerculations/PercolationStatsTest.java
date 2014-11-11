@@ -1,4 +1,4 @@
-package lesson1.MonteCarloPerculations;
+package lesson1.assignment.MonteCarloPerculations;
 
 import org.junit.Assert;
 import org.junit.Before;

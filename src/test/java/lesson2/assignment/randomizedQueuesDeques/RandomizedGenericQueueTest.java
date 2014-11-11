@@ -1,4 +1,4 @@
-package lesson2.randomizedQueuesDeques;
+package lesson2.assignment.randomizedQueuesDeques;
 
 import org.junit.After;
 import org.junit.Assert;
@@ -21,7 +21,7 @@ import java.util.NoSuchElementException;
     @Before
     public void setUp() throws Exception {
 
-        randomStrings = new RandomizedGenericQueue<>();
+        randomStrings = new RandomizedGenericQueue<String>();
     }
 
     @After

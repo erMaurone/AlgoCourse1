@@ -1,4 +1,4 @@
-package lesson1.MonteCarloPerculations;
+package lesson1.assignment.MonteCarloPerculations;
 
 
 import princeton.stdlib.StdRandom;

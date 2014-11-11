@@ -1,4 +1,4 @@
-package lesson2.randomizedQueuesDeques;
+package lesson2.assignment.randomizedQueuesDeques;
 
 /**
  * Created with IntelliJ IDEA.
@@ -11,7 +11,7 @@ public class Subset {
 
 
     public static void main(String[] args) {
-        RandomizedGenericQueue<String> randomStrings = new RandomizedGenericQueue<>();
+        RandomizedGenericQueue<String> randomStrings = new RandomizedGenericQueue<String>();
 
         if (args.length < 1) throw new IllegalArgumentException("Subject <no. of outputs> [input1, input2, ...]");
         int outputs = Integer.valueOf(args[0]);

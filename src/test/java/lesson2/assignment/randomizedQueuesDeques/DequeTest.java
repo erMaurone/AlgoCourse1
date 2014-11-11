@@ -1,4 +1,4 @@
-package lesson2.randomizedQueuesDeques;
+package lesson2.assignment.randomizedQueuesDeques;
 
 import org.junit.Assert;
 import org.junit.Test;

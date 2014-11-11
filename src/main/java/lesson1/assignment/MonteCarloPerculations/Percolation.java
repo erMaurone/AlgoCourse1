@@ -1,4 +1,4 @@
-package lesson1.MonteCarloPerculations;
+package lesson1.assignment.MonteCarloPerculations;
 
 public interface Percolation {
     public void open(int i, int j);          // open site (row i, column j) if it is not open already

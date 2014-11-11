@@ -2,22 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/input6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/input8.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/Percolation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationExperiment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationStats.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Deque.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationStatsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/princeton/algs4/Merge.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/algs4/Merge.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415549385744" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415663853129" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
     <file path="/StdInTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523606055" ignored="false" />
     <file path="/StdRandom.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414525471562" ignored="false" />
-    <file path="/a.dummy" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415224178778" ignored="false" />
+    <file path="/a.dummy" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415659401387" ignored="false" />
     <file path="/ThreeSumN2LogNPerformance.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414532229544" ignored="false" />
     <file path="/ThreeSumFast.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414536761060" ignored="false" />
     <file path="/IntFileGenerator.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414547426031" ignored="false" />
@@ -26,7 +42,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415549321700" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415667283014" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -61,6 +77,11 @@
     <file path="/RandomizedGenericQueue.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415548656297" ignored="false" />
     <file path="/RandomizedGenericQueueTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415546358248" ignored="false" />
     <file path="/Subset.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415549484125" ignored="false" />
+    <file path="/MergeSortSimple.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415638611397" ignored="false" />
+    <file path="/Insertion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415612250187" ignored="false" />
+    <file path="/Point2D.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415614337033" ignored="false" />
+    <file path="/Point.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415665550309" ignored="false" />
+    <file path="/Brute.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415664981207" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +153,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" line="94" class="lesson1.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.MonteCarloPerculations">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" line="94" class="lesson1.assignment.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.assignment.MonteCarloPerculations">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -147,7 +168,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" line="115" class="lesson1.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.MonteCarloPerculations">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" line="115" class="lesson1.assignment.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.assignment.MonteCarloPerculations">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -162,7 +183,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" line="87" class="lesson1.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.MonteCarloPerculations">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" line="87" class="lesson1.assignment.MonteCarloPerculations.PercolationExperimentTest" package="lesson1.assignment.MonteCarloPerculations">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -188,10 +209,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Deque.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java">
+      <file leaf-file-name="Brute.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="75" selection-start="1211" selection-end="1278" vertical-scroll-proportion="-1.25">
+            <state line="38" column="28" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,53 +220,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomizedGenericQueue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java">
+      <file leaf-file-name="Point.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="43" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#536#566#0" expanded="true" />
+                <element signature="e#640#945#0" expanded="true" />
+                <element signature="e#654#661#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StdRandom.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdRandom.java">
+      <file leaf-file-name="MergeTopDown.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="23" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.0">
+            <state line="41" column="43" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomizedGenericQueueTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="-2.4113712">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subset.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="8" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#356#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InteractivePercolationVisualizer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="8" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="DequeTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="10" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="40" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomizedGenericQueueTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
+      <file leaf-file-name="PercolationVisualizer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="35" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subset.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="120" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+            <state line="31" column="25" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -269,22 +310,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Stack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/LinkedStackOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2d.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/Merge.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/input8.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/input6.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
       </list>
     </option>
   </component>
@@ -604,36 +645,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="randomizedQueuesDeques" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MonteCarloPerculations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -731,6 +742,118 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="convexHull" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convexHull" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patternRecognition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mergeSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lesson2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -760,96 +883,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dataStructures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MonteCarloPerculations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -876,7 +909,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -904,65 +937,22 @@
       <recent name="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson2.assignment" />
+      <recent name="lesson1.assignment" />
       <recent name="lesson2.dataStructures" />
       <recent name="princeton" />
       <recent name="lesson1.ThreeSum" />
-      <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subset">
-    <configuration default="false" name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.PercolationVisualizer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson1.MonteCarloPerculations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson1.MonteCarloPerculations.InteractivePercolationVisualizer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Brute">
     <configuration default="false" name="Subset" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson2.randomizedQueuesDeques.Subset" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.Subset" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="4 A B C D E F G H" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -977,18 +967,68 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="MergeTopDown" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson2.mergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson2.mergeSort.MergeTopDown" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoCourse1" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Brute" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson3.convexHull.assignment.patternRecognition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson3.convexHull.assignment.patternRecognition.Brute" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/input8.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoCourse1" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="DequeTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="AlgoCourse1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson2.randomizedQueuesDeques" />
-      <option name="MAIN_CLASS_NAME" value="lesson2.randomizedQueuesDeques.DequeTest" />
+      <option name="PACKAGE_NAME" value="lesson2.assignment.randomizedQueuesDeques" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.DequeTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1014,15 +1054,15 @@
     <configuration default="false" name="RandomizedGenericQueueTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="AlgoCourse1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson2.randomizedQueuesDeques" />
-      <option name="MAIN_CLASS_NAME" value="lesson2.randomizedQueuesDeques.RandomizedGenericQueueTest" />
+      <option name="PACKAGE_NAME" value="lesson2.assignment.randomizedQueuesDeques" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.RandomizedGenericQueueTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1214,20 +1254,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PercolationVisualizer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InteractivePercolationVisualizer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Subset" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Subset" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MergeTopDown" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Brute" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest" />
       <item index="5" class="java.lang.String" itemvalue="JUnit.RandomizedGenericQueueTest" />
       <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Subset" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RandomizedGenericQueueTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DequeTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InteractivePercolationVisualizer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PercolationVisualizer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Brute" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MergeTopDown" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Subset" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RandomizedGenericQueueTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1384,7 +1424,11 @@
       <created>1415488020784</created>
       <updated>1415488020784</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="lesson 2 - assignment">
+      <created>1415549654159</created>
+      <updated>1415549654159</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1409,30 +1453,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4906367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54806495" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4494382" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6536857" sideWeight="0.29141104" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2059925" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5193508" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27161384" sideWeight="0.5093633" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22262248" sideWeight="0.6229713" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27161384" sideWeight="0.4806492" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22262248" sideWeight="0.4806492" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28818443" sideWeight="0.6229713" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3770287" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20317003" sideWeight="0.4806492" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19850187" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1481,7 +1525,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 1 - part1 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 - assignment PART 1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1502,6 +1546,8 @@
     <MESSAGE value="completed percolation assignment" />
     <MESSAGE value="added lesson2 data type lecture examples" />
     <MESSAGE value="lesson 1 - part1 assignment" />
+    <MESSAGE value="lesson 2 - assignment" />
+    <MESSAGE value="lesson 3 - assignment PART 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1511,134 +1557,128 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generated_10000_ints.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="640" selection-end="758" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/FileIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="53" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="20" selection-start="2598" selection-end="2598" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="53" selection-start="2037" selection-end="2037" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="10" selection-start="4101" selection-end="4101" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+        <state line="10" column="13" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/In.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="478" selection-end="522" vertical-scroll-proportion="0.0">
+        <state line="131" column="11" selection-start="4443" selection-end="4443" vertical-scroll-proportion="-1.5240573">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="63" selection-start="3745" selection-end="3746" vertical-scroll-proportion="0.76987445">
+        <state line="28" column="34" selection-start="905" selection-end="905" vertical-scroll-proportion="0.6189857">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input8.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2712" selection-end="2805" vertical-scroll-proportion="0.55944055">
+        <state line="4" column="97" selection-start="73" selection-end="73" vertical-scroll-proportion="0.08842653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="40" selection-start="921" selection-end="921" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="28" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+        <state line="85" column="30" selection-start="2168" selection-end="2168" vertical-scroll-proportion="1.8114754">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="10" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#640#945#0" expanded="true" />
+            <element signature="e#654#661#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdRandom.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="23" selection-start="4056" selection-end="4056" vertical-scroll-proportion="0.0">
+        <state line="31" column="25" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="43" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0">
+        <state line="13" column="8" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#536#566#0" expanded="true" />
+            <element signature="e#356#364#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="35" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="120" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+        <state line="24" column="8" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="75" selection-start="1211" selection-end="1278" vertical-scroll-proportion="-1.25">
+        <state line="10" column="40" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="43" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="-2.4113712">
+          <folding />
         </state>
       </provider>
     </entry>

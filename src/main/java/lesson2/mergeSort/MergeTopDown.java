@@ -1,24 +1,33 @@
-package princeton.algs4; /*************************************************************************
+package lesson2.mergeSort;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: mauro
+ * Date: 10/11/2014
+ * Time: 17:07
+ * To change this template use File | Settings | File Templates.
+ **/
+/*************************************************************************
  *  Compilation:  javac MergeTopDown.java
  *  Execution:    java MergeTopDown < input.txt
  *  Dependencies: StdOut.java StdIn.java
  *  Data files:   http://algs4.cs.princeton.edu/22mergesort/tiny.txt
  *                http://algs4.cs.princeton.edu/22mergesort/words3.txt
- *   
+ *
  *  Sorts a sequence of strings from standard input using mergesort.
- *   
+ *
  *  % more tiny.txt
  *  S O R T E X A M P L E
  *
  *  % java MergeTopDown < tiny.txt
  *  A E E L M O P R S T X                 [ one string per line ]
- *    
+ *
  *  % more words3.txt
  *  bed bug dad yes zoo ... all bad yet
- *  
+ *
  *  % java MergeTopDown < words3.txt
  *  all bad bed bug dad ... yes yet zoo    [ one string per line ]
- *  
+ *
  *************************************************************************/
 
 import princeton.stdlib.StdIn;
@@ -30,15 +39,15 @@ import princeton.stdlib.StdOut;
  *  <p>
  *  For additional documentation, see <a href="http://algs4.cs.princeton.edu/22mergesort">Section 2.2</a> of
  *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *  For an optimized version, see {@link MergeX}.
+ *  For an optimized version, see {@link //MergeX}.
  *
  *  @author Robert Sedgewick
  *  @author Kevin Wayne
  */
-public class Merge {
+public class MergeTopDown {
 
     // This class should not be instantiated.
-    private Merge() { }
+    private MergeTopDown() { }
 
     // stably merge a[lo .. mid] with a[mid+1 ..hi] using aux[lo .. hi]
     private static void merge(Comparable[] a, Comparable[] aux, int lo, int mid, int hi) {
@@ -48,7 +57,7 @@ public class Merge {
 
         // copy to aux[]
         for (int k = lo; k <= hi; k++) {
-            aux[k] = a[k]; 
+            aux[k] = a[k];
         }
 
         // merge back to a[]
@@ -84,15 +93,15 @@ public class Merge {
     }
 
 
-   /***********************************************************************
-    *  Helper sorting functions
-    ***********************************************************************/
-    
+    /***********************************************************************
+     *  Helper sorting functions
+     ***********************************************************************/
+
     // is v < w ?
     private static boolean less(Comparable v, Comparable w) {
         return (v.compareTo(w) < 0);
     }
-        
+
     // exchange a[i] and a[j]
     private static void exch(Object[] a, int i, int j) {
         Object swap = a[i];
@@ -101,9 +110,9 @@ public class Merge {
     }
 
 
-   /***********************************************************************
-    *  Check if array is sorted - useful for debugging
-    ***********************************************************************/
+    /***********************************************************************
+     *  Check if array is sorted - useful for debugging
+     ***********************************************************************/
     private static boolean isSorted(Comparable[] a) {
         return isSorted(a, 0, a.length - 1);
     }
@@ -115,15 +124,15 @@ public class Merge {
     }
 
 
-   /***********************************************************************
-    *  Index mergesort
-    ***********************************************************************/
+    /***********************************************************************
+     *  Index mergesort
+     ***********************************************************************/
     // stably merge a[lo .. mid] with a[mid+1 .. hi] using aux[lo .. hi]
     private static void merge(Comparable[] a, int[] index, int[] aux, int lo, int mid, int hi) {
 
         // copy to aux[]
         for (int k = lo; k <= hi; k++) {
-            aux[k] = index[k]; 
+            aux[k] = index[k];
         }
 
         // merge back to a[]
@@ -170,12 +179,12 @@ public class Merge {
     }
 
     /**
-     * Reads in a sequence of strings from standard input; mergesorts them; 
-     * and prints them to standard output in ascending order. 
+     * Reads in a sequence of strings from standard input; mergesorts them;
+     * and prints them to standard output in ascending order.
      */
     public static void main(String[] args) {
         String[] a = StdIn.readAllStrings();
-        Merge.sort(a);
+        MergeTopDown.sort(a);
         show(a);
     }
 }
