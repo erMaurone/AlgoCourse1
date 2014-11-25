@@ -10,7 +10,6 @@ import java.util.Comparator;
  * User: mauro
  * Date: 20/11/2014
  * Time: 15:11
- * To change this template use File | Settings | File Templates.
  */
 
 public class Board {
@@ -25,10 +24,9 @@ public class Board {
         size = blocks.length;
         this.blocks = blocks;
     }
-    public int dimension()                 // board dimension N
-    {
-        return size;
-    }
+    // board dimension N
+    public int dimension() { return size; }
+
     public int hamming()                   // number of blocks out of place
     {
         if (hamming > -1) return hamming;

@@ -27,12 +27,7 @@ public class Solver {
 
         Node initialNode = new Node(initial, moves, null);
         Node twinNode =  initialNode.twinNode();
-
-        if (initial.isGoal()) {
-            goalNode = initialNode;
-            return;
-        } else if (twinNode.isGoal()) return;
-
+        if (nothingToDo(initialNode, twinNode)) return;
         queue.insert(initialNode);
         twinQueue.insert(twinNode);
         //publishQueue(queue);
@@ -43,6 +38,15 @@ public class Solver {
             twinGoal = makeMoves(twinQueue);
         }
         if (goalNode != null) moves = goalNode.movesMade();
+    }
+
+    private boolean nothingToDo(Node initialNode, Node twinNode) {
+        boolean allDone = false;
+        if (initialNode.isGoal()) {
+            goalNode = initialNode;
+            allDone = true;
+        } else if (twinNode.isGoal()) allDone = true;
+        return allDone;
     }
 
     private void publishQueue(MinPQ<Node> aQueue) {
