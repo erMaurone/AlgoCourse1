@@ -60,8 +60,7 @@ public class Solver {
         int currentMoves = searchNode.movesMade() + 1;
         Node parent = searchNode.getParent();
         Board nextMove = searchNode.getBoard();
-        if (nextMove.isGoal())
-            return searchNode;
+        if (searchNode.isGoal()) return searchNode;
         for( Board b : nextMove.neighbors() ) {
             if (parent != null && parent.getBoard().equals(b)) continue;
             Node move = new Node(b, currentMoves, searchNode);
@@ -106,23 +105,15 @@ public class Solver {
     }
 
     private class Node implements Comparable<Node>{
-        private Board move;
-        private int currentMoves;
+        private final Board move;
+        private final int currentMoves;
         private int priority = -1;
-        private Node parent;
+        private final Node parent;
 
         public Node(Board move, int moves, Node parent) {
             this.move = move;
             this.currentMoves = moves;
             this.parent = parent;
-        }
-
-        public Node twinNode() {
-            return new Node(move.twin(), 0, null);
-        }
-
-        public boolean isGoal() {
-            return move.isGoal();
         }
 
         @Override
@@ -131,7 +122,6 @@ public class Solver {
             if (this.priority() > that.priority()) return 1;
             Comparator<Board> tieBreaker = move.getComparator();
             return tieBreaker.compare(move, that.getBoard());
-            //return 0;
         }
 
         public int priority() {
@@ -150,9 +140,9 @@ public class Solver {
         }
 
         public Board getBoard() { return move; }
-
         public Node getParent() {return parent;}
-
         public int movesMade() { return currentMoves;}
+        public Node twinNode() { return new Node(move.twin(), 0, null); }
+        public boolean isGoal() { return move.isGoal(); }
     }
 }
