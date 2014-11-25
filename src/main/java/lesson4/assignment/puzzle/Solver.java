@@ -55,6 +55,7 @@ public class Solver {
         System.out.println("==========================" + moves);
     }
 
+    //TODO could make the Node do this work to ensure the Board is only visible at Node level
     private Node makeMoves(MinPQ<Node> queue) {
         Node searchNode = queue.delMin();
         int currentMoves = searchNode.movesMade() + 1;
@@ -82,6 +83,7 @@ public class Solver {
     }
 
     // sequence of boards in a shortest solution; null if unsolvable
+    //TODO could make the Node do this work to ensure the Board is only visible at Node level
     public Iterable<Board> solution() {
         if (goalNode == null) return null;
         Stack<Board> solution = new Stack<Board>();

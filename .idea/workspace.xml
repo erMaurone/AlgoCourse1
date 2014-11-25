@@ -23,7 +23,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416918829241" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416920632127" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -69,7 +69,7 @@
     <file path="/InOutParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415723686613" ignored="false" />
     <file path="/Board.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416847504292" ignored="false" />
     <file path="/BoardTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416737875500" ignored="false" />
-    <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416919974910" ignored="false" />
+    <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416920719907" ignored="false" />
     <file path="/SolverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416754870963" ignored="false" />
     <file path="/PuzzleChecker.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416749460623" ignored="false" />
     <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416845598293" ignored="false" />
@@ -251,12 +251,12 @@
       <file leaf-file-name="Solver.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="21" selection-start="1710" selection-end="1710" vertical-scroll-proportion="1.9437984">
+            <state line="85" column="93" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.30813953">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#369#375#0" expanded="true" />
                 <element signature="e#424#430#0" expanded="true" />
-                <element signature="e#2642#2649#0" expanded="true" />
+                <element signature="e#2830#2837#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1616,7 +1616,11 @@
       <created>1416918851537</created>
       <updated>1416918851537</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="lesson 4 - assignment puzzles">
+      <created>1416920638991</created>
+      <updated>1416920638991</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1641,7 +1645,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="30" width="1356" height="840" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -1664,7 +1668,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28604296" sideWeight="0.79972184" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20027816" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20027816" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1896,12 +1900,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="21" selection-start="1710" selection-end="1710" vertical-scroll-proportion="1.9437984">
+        <state line="85" column="93" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.30813953">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#369#375#0" expanded="true" />
             <element signature="e#424#430#0" expanded="true" />
-            <element signature="e#2642#2649#0" expanded="true" />
+            <element signature="e#2830#2837#0" expanded="true" />
           </folding>
         </state>
       </provider>
