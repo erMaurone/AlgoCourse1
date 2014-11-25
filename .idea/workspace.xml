@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416844057495" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416924999067" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -23,7 +22,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416920632127" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416921636274" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -69,7 +68,7 @@
     <file path="/InOutParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415723686613" ignored="false" />
     <file path="/Board.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416847504292" ignored="false" />
     <file path="/BoardTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416737875500" ignored="false" />
-    <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416920719907" ignored="false" />
+    <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416921168960" ignored="false" />
     <file path="/SolverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416754870963" ignored="false" />
     <file path="/PuzzleChecker.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416749460623" ignored="false" />
     <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416845598293" ignored="false" />
@@ -190,7 +189,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" line="41" class="lesson4.assignment.puzzle.Board" package="lesson4.assignment.puzzle">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" line="39" class="lesson4.assignment.puzzle.Board" package="lesson4.assignment.puzzle">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -216,23 +215,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Board.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Board.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="33" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+            <state line="175" column="19" selection-start="5805" selection-end="5805" vertical-scroll-proportion="-1.5124378">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4113#4120#0" expanded="true" />
+                <element signature="e#4021#4028#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinPQ.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/MinPQ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="0" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -248,15 +238,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solver.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Solver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="93" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.30813953">
+            <state line="66" column="26" selection-start="2115" selection-end="2115" vertical-scroll-proportion="-41.555557">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#369#375#0" expanded="true" />
                 <element signature="e#424#430#0" expanded="true" />
-                <element signature="e#2830#2837#0" expanded="true" />
+                <element signature="e#3035#3042#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -293,9 +283,9 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
       </list>
     </option>
   </component>
@@ -1105,7 +1095,7 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.PuzzleChecker" />
-      <option name="VM_PARAMETERS" value="" />
+      <option name="VM_PARAMETERS" value="-Xmx1600m" />
       <option name="PROGRAM_PARAMETERS" value="src/main/resources/lesson4TestPuzzles/" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1620,7 +1610,15 @@
       <created>1416920638991</created>
       <updated>1416920638991</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="lesson 4 - assignment puzzles">
+      <created>1416920764090</created>
+      <updated>1416920764090</updated>
+    </task>
+    <task id="LOCAL-00035" summary="lesson 4 - assignment puzzles">
+      <created>1416921641066</created>
+      <updated>1416921641066</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1645,7 +1643,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="30" width="1356" height="840" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -1667,8 +1665,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28604296" sideWeight="0.79972184" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20027816" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28604296" sideWeight="0.34214187" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.65785813" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1830,13 +1828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/MinPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle12.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1888,24 +1879,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/MinPQ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4113#4120#0" expanded="true" />
-          </folding>
+        <state line="143" column="0" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.14874552">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="93" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.30813953">
+        <state line="66" column="26" selection-start="2115" selection-end="2115" vertical-scroll-proportion="-41.555557">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#369#375#0" expanded="true" />
             <element signature="e#424#430#0" expanded="true" />
-            <element signature="e#2830#2837#0" expanded="true" />
+            <element signature="e#3035#3042#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="19" selection-start="5805" selection-end="5805" vertical-scroll-proportion="-1.5124378">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4021#4028#0" expanded="true" />
           </folding>
         </state>
       </provider>
