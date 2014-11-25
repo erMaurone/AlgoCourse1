@@ -1,7 +1,6 @@
 package lesson3.convexHull.assignment.patternRecognition;
 
 import lesson2.mergeSort.MergeTopDown;
-import princeton.stdlib.In;
 import princeton.stdlib.StdOut;
 
 /**
@@ -12,7 +11,6 @@ import princeton.stdlib.StdOut;
  * To change this template use File | Settings | File Templates.
  */
 public class Brute {
-
     private final Point[] points;
     private static final int POINTS_IN_LINE = 4;
 
@@ -21,18 +19,7 @@ public class Brute {
         bruteForce.findPointsInLine(bruteForce.getPoints());
     }
 
-    public Brute(String fileName) {
-        In fileReader = new In(fileName);
-        int pointsQty = fileReader.readInt();
-        points = new Point[pointsQty];
-        int pointsReceived=0;
-        while (fileReader.hasNextLine()) {
-            int x = fileReader.readInt();
-            int y = fileReader.readInt();
-            Point thisPoint = new Point(x,y);
-            points[pointsReceived++] = thisPoint;
-        }
-    }
+    public Brute(String fileName) {points = InOutParser.processInput(fileName);}
 
     public void findPointsInLine(Point[] points) {
         if (points == null || points.length < POINTS_IN_LINE) throw new IllegalArgumentException();
@@ -45,24 +32,10 @@ public class Brute {
                         if ( slope == points[i].slopeTo(points[k]) &&
                                 slope == points[i].slopeTo(points[l]) ) {
                                 Point[] pointsInLine = {points[i], points[j], points[k], points[l]};
-                                StdOut.println(format(pointsInLine));
+                                StdOut.println(InOutParser.format(pointsInLine, POINTS_IN_LINE));
                         }
                     }
     }
 
-    private String format(Point[] points) {
-        if (points == null || points.length < POINTS_IN_LINE) throw new IllegalArgumentException();
-        StringBuilder output = new StringBuilder();
-        for (int i = 0; i < points.length;i++) {
-            Point p = points[i];
-            output.append(p.toString());
-            if (i != points.length - 1)
-                output.append(" -> ");
-        }
-        return output.toString();
-    }
-
-    public Point[] getPoints() {
-        return points;
-    }
+    public Point[] getPoints() {return points;}
 }

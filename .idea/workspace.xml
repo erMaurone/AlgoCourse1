@@ -2,32 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/input6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/input8.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/Percolation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationExperiment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" afterPath="$PROJECT_DIR$/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationStats.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Deque.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationStatsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java" afterPath="$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" afterPath="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/princeton/algs4/Merge.java" afterPath="$PROJECT_DIR$/src/main/java/princeton/algs4/Merge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/BoardTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Fast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/GenericLinkedQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/InOutParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle00.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle01.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle02.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle03.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle04.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle05.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle06.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle07.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle08.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle09.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle2x2-unsolvable1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle2x2-unsolvable2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle2x2-unsolvable3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle3x3-unsolvable.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle3x3-unsolvable1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle3x3-unsolvable2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle4x4-78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle4x4-80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle4x4-hard1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle4x4-hard2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle4x4-unsolvable.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/router_conf.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415663853129" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416844057495" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -42,7 +97,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415667283014" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416748859956" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -70,7 +125,7 @@
     <file path="/LinkedQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415400486520" ignored="false" />
     <file path="/ArrayQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415401653605" ignored="false" />
     <file path="/ResizingArrayQueueOfStrings.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415401956404" ignored="false" />
-    <file path="/ArrayStackGenerics.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415402380619" ignored="false" />
+    <file path="/ArrayStackGenerics.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416844110130" ignored="false" />
     <file path="/EvaluateArithmeticExpressionWithStack.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415447780222" ignored="false" />
     <file path="/Deque.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415487815435" ignored="false" />
     <file path="/DequeTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415486711291" ignored="false" />
@@ -80,8 +135,19 @@
     <file path="/MergeSortSimple.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415638611397" ignored="false" />
     <file path="/Insertion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415612250187" ignored="false" />
     <file path="/Point2D.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415614337033" ignored="false" />
-    <file path="/Point.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415665550309" ignored="false" />
-    <file path="/Brute.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415664981207" ignored="false" />
+    <file path="/Point.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415730853288" ignored="false" />
+    <file path="/Brute.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415702591951" ignored="false" />
+    <file path="/InputParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415702548548" ignored="false" />
+    <file path="/Fast.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415748537340" ignored="false" />
+    <file path="/GenericLinkedQueue.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415723656632" ignored="false" />
+    <file path="/InOutParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415723686613" ignored="false" />
+    <file path="/Board.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416847504292" ignored="false" />
+    <file path="/BoardTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416737875500" ignored="false" />
+    <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416918047864" ignored="false" />
+    <file path="/SolverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416754870963" ignored="false" />
+    <file path="/PuzzleChecker.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416749460623" ignored="false" />
+    <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416845598293" ignored="false" />
+    <file path="/MergeTopDown.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416841615539" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +264,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" line="41" class="lesson4.assignment.puzzle.Board" package="lesson4.assignment.puzzle">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
@@ -209,10 +290,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Brute.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java">
+      <file leaf-file-name="Board.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="28" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0">
+            <state line="17" column="33" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4113#4120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinPQ.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/MinPQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="143" column="0" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolverTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="30" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -220,74 +322,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Point.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java">
+      <file leaf-file-name="Solver.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+            <state line="16" column="50" selection-start="266" selection-end="266" vertical-scroll-proportion="-3.6420665">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#640#945#0" expanded="true" />
-                <element signature="e#654#661#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#369#375#0" expanded="true" />
+                <element signature="e#424#430#0" expanded="true" />
+                <element signature="e#2652#2659#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeTopDown.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="43" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomizedGenericQueueTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="-2.4113712">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subset.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="8" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#356#364#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InteractivePercolationVisualizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="8" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DequeTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="40" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PercolationVisualizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="25" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -310,22 +354,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" />
-        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/Insertion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2d.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/Merge.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/input8.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/input6.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/router_conf.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/InputParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/GenericLinkedQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/InOutParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Fast.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" />
       </list>
     </option>
   </component>
@@ -350,62 +394,14 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AlgoCourse1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AlgoCourse1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="junit:junit:4.11" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AlgoCourse1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="AlgoCourse1" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="48" />
+    <option name="y" value="30" />
+    <option name="width" value="1356" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -478,6 +474,15 @@
             <id>Error handlingGroovy</id>
           </State>
           <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>Google Web Toolkit issues</id>
           </State>
           <State>
@@ -485,6 +490,9 @@
           </State>
           <State>
             <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
           </State>
           <State>
             <id>Imports</id>
@@ -514,13 +522,25 @@
             <id>Maven</id>
           </State>
           <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metrics</id>
+          </State>
+          <State>
             <id>Naming ConventionsGroovy</id>
           </State>
           <State>
             <id>Naming conventions</id>
           </State>
           <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
             <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
           </State>
           <State>
             <id>Performance issues</id>
@@ -530,6 +550,12 @@
           </State>
           <State>
             <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
           </State>
           <State>
             <id>SQL</id>
@@ -599,9 +625,6 @@
         <subPane subId="Default" />
         <subPane subId="All" />
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -621,6 +644,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puzzle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -686,11 +735,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
+              <option name="myItemId" value="lesson4TestPuzzles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -717,6 +788,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="princeton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="puzzle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -858,6 +955,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="dataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="randomizedQueuesDeques" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -883,6 +1010,100 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThreeSum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="binarySearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MonteCarloPerculations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -900,16 +1121,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.lastSelected" value="MavenSettings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -918,22 +1142,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="lesson2.randomizedQueuesDeques" />
-      <recent name="lesson1.MonteCarloPerculations" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lesson4.assignment.puzzle" />
+      <recent name="lesson2.randomizedQueuesDeques" />
+      <recent name="lesson1.MonteCarloPerculations" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/lesso4TestPuzzles" />
       <recent name="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -944,17 +1170,17 @@
       <recent name="lesson1.ThreeSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Brute">
-    <configuration default="false" name="Subset" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.PuzzleChecker">
+    <configuration default="false" name="PuzzleChecker" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.Subset" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.PuzzleChecker" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="4 A B C D E F G H" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/lesson4TestPuzzles/" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -967,68 +1193,18 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="MergeTopDown" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="BoardTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.mergeSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson2.mergeSort.MergeTopDown" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Brute" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson3.convexHull.assignment.patternRecognition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson3.convexHull.assignment.patternRecognition.Brute" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="src/main/resources/input8.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DequeTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="AlgoCourse1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson2.assignment.randomizedQueuesDeques" />
-      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.DequeTest" />
+      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.BoardTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1051,20 +1227,20 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="RandomizedGenericQueueTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="SolverTest.testSolvable" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson2.assignment.randomizedQueuesDeques.*" />
+          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="AlgoCourse1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson2.assignment.randomizedQueuesDeques" />
-      <option name="MAIN_CLASS_NAME" value="lesson2.assignment.randomizedQueuesDeques.RandomizedGenericQueueTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.SolverTest" />
+      <option name="METHOD_NAME" value="testSolvable" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1082,6 +1258,68 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SolverTest.testUnsolvable" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.SolverTest" />
+      <option name="METHOD_NAME" value="testUnsolvable" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BoardTest.testTwin" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
+      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.BoardTest" />
+      <option name="METHOD_NAME" value="testTwin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1121,6 +1359,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1147,19 +1398,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1196,6 +1434,22 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="ThreeSumDeluxe" type="Application" factoryName="Application">
@@ -1254,20 +1508,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Subset" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeTopDown" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Brute" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.RandomizedGenericQueueTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BoardTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SolverTest.testSolvable" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SolverTest.testUnsolvable" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.BoardTest.testTwin" />
       <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Brute" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MergeTopDown" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Subset" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RandomizedGenericQueueTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.DequeTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SolverTest.testSolvable" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SolverTest.testUnsolvable" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BoardTest.testTwin" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BoardTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1282,7 +1536,7 @@
     </option>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value="VISIBILITY_SORTER,SHOW_PROPERTIES" />
+    <option name="ACTIVE_ACTIONS" value="VISIBILITY_SORTER,SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
@@ -1428,7 +1682,11 @@
       <created>1415549654159</created>
       <updated>1415549654159</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="lesson 3 - assignment PART 1">
+      <created>1415667366959</created>
+      <updated>1415667366959</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1452,31 +1710,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="48" y="30" width="1356" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4906367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5340751" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4494382" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21557719" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6536857" sideWeight="0.29141104" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44923505" sideWeight="0.5007669" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5193508" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59248954" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27161384" sideWeight="0.4806492" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22262248" sideWeight="0.4806492" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27161384" sideWeight="0.72284645" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20317003" sideWeight="0.4806492" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19850187" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28604296" sideWeight="0.798331" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20166898" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1549,6 +1807,40 @@
     <MESSAGE value="lesson 2 - assignment" />
     <MESSAGE value="lesson 3 - assignment PART 1" />
   </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
@@ -1557,78 +1849,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generated_10000_ints.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/ThreeSum/ThreeSumDeluxe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/FileIn.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson1/ThreeSum/ThreeSumSlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/In.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="11" selection-start="4443" selection-end="4443" vertical-scroll-proportion="-1.5240573">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeSortSimple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="905" selection-end="905" vertical-scroll-proportion="0.6189857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/input8.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="97" selection-start="73" selection-end="73" vertical-scroll-proportion="0.08842653">
+        <state line="6" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="40" selection-start="921" selection-end="921" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="28" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="30" selection-start="2168" selection-end="2168" vertical-scroll-proportion="1.8114754">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/input6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
+        <state line="37" column="37" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+        <state line="22" column="17" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#640#945#0" expanded="true" />
             <element signature="e#654#661#0" expanded="true" />
             <element signature="e#938#939#0" expanded="true" />
@@ -1636,49 +1881,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle09.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="25" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle10.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/MinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="4777" selection-end="4777" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="33" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#356#364#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#4113#4120#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="8" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle07.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle11.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="43" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle08.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="30" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson4TestPuzzles/puzzle36.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="28" selection-start="495" selection-end="495" vertical-scroll-proportion="-2.4113712">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="50" selection-start="266" selection-end="266" vertical-scroll-proportion="-3.6420665">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#375#0" expanded="true" />
+            <element signature="e#424#430#0" expanded="true" />
+            <element signature="e#2652#2659#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

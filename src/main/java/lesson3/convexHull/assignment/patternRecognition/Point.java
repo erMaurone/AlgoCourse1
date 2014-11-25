@@ -15,10 +15,10 @@ package lesson3.convexHull.assignment.patternRecognition;
  *************************************************************************/
 
 import princeton.stdlib.StdDraw;
+
 import java.util.Comparator;
 
 public class Point implements Comparable<Point> {
-
     // compare points by slope
     public final Comparator<Point> SLOPE_ORDER = new Comparator<Point>() {
         @Override
@@ -31,25 +31,19 @@ public class Point implements Comparable<Point> {
         }
     };
 
-    private final int x;
-    private final int y;
+    private final int x,y;
 
     // create the point (x, y)
     public Point(int x, int y) {
-        /* DO NOT MODIFY */
         this.x = x;
         this.y = y;
     }
 
     // plot this point to standard drawing
-    public void draw() {
-        StdDraw.point(x, y);
-    }
+    public void draw() { StdDraw.point(x, y); }
 
     // draw line between this point and that point to standard drawing
-    public void drawTo(Point that) {
-        StdDraw.line(this.x, this.y, that.x, that.y);
-    }
+    public void drawTo(Point that) { StdDraw.line(this.x, this.y, that.x, that.y); }
 
     // slope between this point and that point
     public double slopeTo(Point that) {
@@ -71,12 +65,5 @@ public class Point implements Comparable<Point> {
     }
 
     // return string representation of this point
-    public String toString() {
-        return "(" + x + ", " + y + ")";
-    }
-
-    // unit test
-    public static void main(String[] args) {
-    }
+    public String toString() { return "(" + x + ", " + y + ")"; }
 }
-
