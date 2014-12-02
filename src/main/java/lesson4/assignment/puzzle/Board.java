@@ -127,7 +127,7 @@ public class Board {
         int zeroCol=0;
         int zeroRow=0;
         outer:
-        for (int i = 0; i< size;i++)
+        for (int i=0; i< size;i++)
             for(int j=0;j< size;j++) {
                 if (blocks[i][j] == 0 ) {
                     zeroRow =i;
