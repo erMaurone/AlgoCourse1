@@ -2,38 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle100.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle1000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10000.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10k.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/horizontal8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input100K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input10K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input1M.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input200K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input20K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input400K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input40K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input800K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input80K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/vertical7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" afterPath="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417515094100" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417730463463" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -48,7 +24,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416931507639" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417786230320" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -102,7 +78,15 @@
     <file path="/PointSet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437460176" ignored="false" />
     <file path="/RectHV.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437403170" ignored="false" />
     <file path="/PointSET.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417511270302" ignored="false" />
-    <file path="/KdTree.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417515281227" ignored="false" />
+    <file path="/KdTree.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417788978916" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/mathStackOverflow.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417533067050" ignored="false" />
+    <file path="/mathStackOverflow.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417535369751" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/MathStackOverflow.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417533082816" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/FibonacciRecursive.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417534054363" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/Fibonacci.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417535370531" ignored="false" />
+    <file path="/Fibonacci.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417535362561" ignored="false" />
+    <file path="/KdTreeVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417694980679" ignored="false" />
+    <file path="/PointSETVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417695088016" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,6 +203,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" line="247" class="lesson5.assignment.kdTrees.KdTree" package="lesson5.assignment.kdTrees">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
@@ -235,14 +234,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PointSET.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PointSET.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="102" selection-start="1500" selection-end="1500" vertical-scroll-proportion="2.2104018">
+            <state line="41" column="15" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KdTree.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="126" column="18" selection-start="4089" selection-end="4089" vertical-scroll-proportion="3.9520295">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1198#1207#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResizingArrayQueueOfStrings.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="61" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointSETVisualizer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="24" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -250,18 +275,34 @@
       <file leaf-file-name="KdTreeVisualizer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="20" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="28" column="71" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KdTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
+      <file leaf-file-name="Point2D.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Point2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="48" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0">
+            <state line="294" column="13" selection-start="9806" selection-end="9806" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StdDraw.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="879" column="0" selection-start="34703" selection-end="34703" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="41" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -271,9 +312,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="22" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -282,9 +321,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="42" column="15" selection-start="1566" selection-end="1566" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -307,7 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/assignment/patternRecognition/Fast.java" />
         <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/BoardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble" />
@@ -319,10 +355,11 @@
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
       </list>
     </option>
   </component>
@@ -351,10 +388,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="30" />
-    <option name="width" value="1356" />
-    <option name="height" value="840" />
+    <option name="x" value="32" />
+    <option name="y" value="29" />
+    <option name="width" value="1387" />
+    <option name="height" value="839" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -574,10 +611,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Default" />
-        <subPane subId="All" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -800,6 +833,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="puzzle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="convexHull" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -852,6 +911,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -871,6 +960,10 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="All" />
       </pane>
       <pane id="PackagesPane">
         <subPane />
@@ -893,12 +986,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -921,7 +1014,7 @@
       <recent name="princeton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PuzzleChecker">
+  <component name="RunManager" selected="Application.KdTreeVisualizer">
     <configuration default="false" name="PuzzleChecker" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -941,40 +1034,6 @@
       <module name="AlgoCourse1" />
       <envs />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BoardTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="AlgoCourse1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
-      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.BoardTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1012,30 +1071,24 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SolverTest.testUnsolvable" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="KdTreeVisualizer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
+          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="AlgoCourse1" />
+      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.KdTreeVisualizer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
-      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.SolverTest" />
-      <option name="METHOD_NAME" value="testUnsolvable" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="AlgoCourse1" />
       <envs />
-      <patterns />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -1046,30 +1099,52 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="BoardTest.testTwin" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="KdTree" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson4.assignment.puzzle.*" />
+          <option name="PATTERN" value="lesson5.assignment.kdTrees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="AlgoCourse1" />
+      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.kdTrees.KdTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="lesson4.assignment.puzzle" />
-      <option name="MAIN_CLASS_NAME" value="lesson4.assignment.puzzle.BoardTest" />
-      <option name="METHOD_NAME" value="testTwin" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="AlgoCourse1" />
       <envs />
-      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PointSETVisualizer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.PointSETVisualizer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgoCourse1" />
+      <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1110,19 +1185,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1149,6 +1211,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1259,20 +1334,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BoardTest" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.SolverTest.testSolvable" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SolverTest.testUnsolvable" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.BoardTest.testTwin" />
-      <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+      <item index="4" class="java.lang.String" itemvalue="Application.KdTreeVisualizer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.KdTree" />
+      <item index="6" class="java.lang.String" itemvalue="Application.PointSETVisualizer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SolverTest.testSolvable" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SolverTest.testUnsolvable" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BoardTest.testTwin" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BoardTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.KdTreeVisualizer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.KdTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PointSETVisualizer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PuzzleChecker" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SolverTest.testSolvable" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1457,7 +1532,11 @@
       <created>1416931516321</created>
       <updated>1416931516321</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="lesson 5 - geometry red-black trees">
+      <created>1417516819955</created>
+      <updated>1417516819955</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1481,34 +1560,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="30" width="1356" height="840" extended-state="0" />
+    <frame x="32" y="29" width="1387" height="839" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21557719" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6364902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44923505" sideWeight="0.5007669" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59248954" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58774376" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2714724" sideWeight="0.72284645" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2714724" sideWeight="0.7089453" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28604296" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65785813" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28539327" sideWeight="0.8746518" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1253482" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.8488806" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1554,7 +1633,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 - assignment puzzles" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5 - geometry red-black trees" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1578,6 +1657,7 @@
     <MESSAGE value="lesson 2 - assignment" />
     <MESSAGE value="lesson 3 - assignment PART 1" />
     <MESSAGE value="lesson 4 - assignment puzzles" />
+    <MESSAGE value="lesson 5 - geometry red-black trees" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1621,43 +1701,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="19" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.074235804">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="13" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="26" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#375#0" expanded="true" />
-            <element signature="e#424#430#0" expanded="true" />
-            <element signature="e#3035#3042#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="23" selection-start="3233" selection-end="3233" vertical-scroll-proportion="0.0">
@@ -1668,65 +1711,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Point2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="18" selection-start="5346" selection-end="5346" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10k.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle100.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="20" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="22" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="15" selection-start="1566" selection-end="1566" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1737,17 +1747,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle4.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="41" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="294" column="13" selection-start="9806" selection-end="9806" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="24" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="71" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="102" selection-start="1500" selection-end="1500" vertical-scroll-proportion="2.2104018">
+        <state line="41" column="15" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="879" column="0" selection-start="34703" selection-end="34703" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="61" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="18" selection-start="4089" selection-end="4089" vertical-scroll-proportion="3.9520295">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1198#1207#0" expanded="true" />
           </folding>
         </state>
       </provider>
