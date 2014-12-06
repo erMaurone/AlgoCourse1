@@ -1,6 +1,7 @@
 package lesson5.assignment.kdTrees;
 
 import princeton.algs4.Point2D;
+import princeton.stdlib.StdDraw;
 
 import java.util.TreeSet;
 
@@ -38,6 +39,7 @@ public class PointSET {
 
     // draw all points to standard draw
     public void draw() {
+        StdDraw.setPenRadius(0.01);
         for (Point2D p : bst)
             p.draw();
     }

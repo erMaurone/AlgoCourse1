@@ -4,6 +4,8 @@ import princeton.algs4.Point2D;
 import princeton.stdlib.StdDraw;
 
 import java.util.Comparator;
+import java.util.Set;
+import java.util.TreeSet;
 
 /**
  * User: mauro
@@ -12,15 +14,7 @@ import java.util.Comparator;
  */
 
 public class KdTree {
-    private enum Coordinate {X, Y;
-        Coordinate reverse() {
-            Coordinate result = Coordinate.X;
-           if (this == Coordinate.X) result = Coordinate.Y;
-           return result;
-        }
-    }
-    private static final boolean RED = true;
-    private static final boolean BLACK = false;
+    private enum Coordinate {X, Y}
     private static final int ROOT_LEVEL = 0;
     private Node root = null;
     private int size = 0;
@@ -32,29 +26,24 @@ public class KdTree {
     public int size() {return size;}
 
     // add the point to the set (if it is not already in the set)
-    public void insert(Point2D val) { root = put(root, val, ROOT_LEVEL); }
+    public void insert(Point2D val) { root = insert(root, val, ROOT_LEVEL); }
 
-    private Node put(Node h, Point2D val, int level) {
-        //if (h == null) return new Node(val, RED);
+    private Node insert(Node h, Point2D val, int level) {
         if (h == null) return new Node(val);
-
         h.updateCoordinate(selectCoordinate(level++));
         int cmp = h.compareTo(val);
-        if (cmp < 0) h.left = put(h.left, val, level);
-        else if (cmp > 0) h.right = put(h.right, val, level);
-        else if (cmp == 0) h.val = val;
+        if (cmp < 0) h.left = insert(h.left, val, level);
+        else if (cmp > 0) h.right = insert(h.right, val, level);
+        else h.val = val;
 
-        //if (isRed(h.right) && !isRed(h.left)) h = rotateLeft(h);
-        //if (isRed(h.left) && isRed(h.left.left)) h = rotateRight(h);
-        //if (isRed(h.left) && isRed(h.right)) flipColors(h);
         return h;
     }
 
     private Coordinate selectCoordinate(int level) {
         Coordinate result = Coordinate.X;
-        if (level == 0) return result;
+        if (level == ROOT_LEVEL) return result;
         int reminder = level% 2;
-        if (reminder != 0 ) return Coordinate.Y;
+        if (reminder != ROOT_LEVEL ) return Coordinate.Y;
         return result;
     }
 
@@ -70,23 +59,6 @@ public class KdTree {
         return false;
     }
 
-    public void show() {
-        System.out.println();
-        System.out.println("Size = " + size());
-        System.out.println("root " + publish(root, ROOT_LEVEL));
-    }
-
-    private String publish(Node start, int level) {
-        StringBuilder output = new StringBuilder();
-        Node x = start;
-        if (x != null) output.append(x);
-        output.append(" Level " + level++ + '\n');
-        if (x.left != null) output.append(" LEFT " +  publish(x.left, level));
-        if (x.right != null) output.append(" RIGHT " + publish(x.right, level));
-
-        return output.toString();
-    }
-
     // draw all points to standard draw
     public void draw() { drawNode(root, null, ROOT_LEVEL); }
 
@@ -97,10 +69,8 @@ public class KdTree {
         StdDraw.setPenRadius(.01);
         val.draw();
         StdDraw.setPenRadius();
-        if (parent == null)
-            drawLine(val, null, level++);
-        else
-            drawLine(val, parent.val, level++);
+        if (parent == null) drawLine(val, null, level++);
+        else drawLine(val, parent.val, level++);
         if (x.left != null ) drawNode(x.left, x, level);
         if (x.right != null ) drawNode(x.right, x, level);
     }
@@ -130,7 +100,19 @@ public class KdTree {
     }
 
     // all points that are inside the rectangle
-    public Iterable<Point2D> range(RectHV rect) { return null; }
+    public Iterable<Point2D> range(RectHV rect) {
+        TreeSet<Point2D> inRange = new TreeSet<Point2D>();
+        findIntersections(rect, root, null, ROOT_LEVEL, inRange);
+        return inRange;
+    }
+
+    private void findIntersections(RectHV rect, Node x, Node parent, int level, Set inRange) {
+       if (x == null) return;
+       if (rect.contains(x.val)) inRange.add(x.val);
+       x.updateCoordinate(selectCoordinate(level++));
+       if(rect.intersects(x.leftRect(parent))) findIntersections(rect, x.left, x, level, inRange);
+       if(rect.intersects(x.rightRect(parent))) findIntersections(rect, x.right, x, level, inRange);
+    }
 
     // a nearest neighbor in the set to point p; null if the set is empty
     public Point2D nearest(Point2D p) {
@@ -142,74 +124,69 @@ public class KdTree {
         while (x != null) {
             if (x.val.equals(p)) return p;
             if (x.val.distanceTo(p) < champ.val.distanceTo(p)) champ = x;
+
             x.updateCoordinate(selectCoordinate(level++));
             int cmp = x.compareTo(p);
             if (cmp < 0) x = x.left;
             else if (cmp > 0) x = x.right;
         }
-
         return champ.val;
     }
 
-    private boolean isRed(Node x) {
-        if (x == null) return false;
-        return x.color == RED;
+    public void show() {
+        System.out.println();
+        System.out.println("Size = " + size());
+        System.out.println("root " + publish(root, ROOT_LEVEL));
     }
 
-    private Node rotateLeft(Node h) {
-        assert isRed(h.right);
-        Node x = h.right;
-        h.right = x.left;
-        x.left = h;
-        x.color = h.color;
-        h.color = RED;
-        return x;
+    private String publish(Node start, int level) {
+        StringBuilder output = new StringBuilder();
+        Node x = start;
+        if (x != null) output.append(x);
+        output.append(" Level " + level++ + '\n');
+        if (x.left != null) output.append(" LEFT " +  publish(x.left, level));
+        if (x.right != null) output.append(" RIGHT " + publish(x.right, level));
+
+        return output.toString();
     }
 
-    private Node rotateRight(Node h) {
-        assert isRed(h.left);
-        Node x = h.left;
-        h.left = x.right;
-        x.right = h;
-        x.color = h.color;
-        h.color = RED;
-        return x;
-    }
 
-    private void flipColors(Node h) {
-        assert !isRed(h);
-        assert isRed(h.left);
-        assert isRed(h.right);
-        h.color = RED;
-        h.left.color = BLACK;
-        h.right.color = BLACK;
-    }
+    private static class Node implements Comparable<Point2D>{
+        private Coordinate coordinate;
+        private Point2D val;
+        private Node left, right;
 
-    private class Node implements Comparable<Point2D>{
-        Coordinate coordinate;
-        Point2D val;
-        Node left, right;
-        boolean color;  // color of parent link
+        private Node(Point2D val) { this.val = val; }
 
-        public Node(Point2D val) {
-            this.val =val;
-        }
-        public Node(Point2D val, boolean color) {
-            this.val = val;
-            this.color = color;
-            size++;
-        }
+        private void updateCoordinate(Coordinate c) { coordinate = c; }
 
-        public void reverseCoordinate(){
-            if (coordinate == Coordinate.X) {
-                coordinate = Coordinate.Y;
-                return;
+        private RectHV leftRect(Node parent) {
+            double minX=0, minY=0, maxX=1, maxY=1;
+            switch (coordinate) {
+                case X: maxX = val.x();
+                    if (parent != null) maxY = parent.val.y();
+                    break;
+                case Y: maxY = val.y();
+                    if (parent != null) maxX = parent.val.x();
+                    break;
             }
-            coordinate = Coordinate.X;
+            RectHV leftRect = new RectHV(minX,minY,maxX,maxY);
+            return leftRect;
         }
 
-        public void updateCoordinate(Coordinate c) { coordinate = c; }
-
+        private RectHV rightRect(Node parent) {
+            double minX=0, minY=0, maxX=1, maxY=1;
+            switch (coordinate) {
+                case X: minX = val.x();
+                    if (parent != null) minY = parent.val.y();
+                    break;
+                case Y: minY = val.y();
+                    if (parent != null) minX = parent.val.x();
+                    break;
+            }
+            RectHV rightRect = new RectHV(minX,minY,maxX,maxY);
+            return rightRect;
+        }
         @Override
         public int compareTo(Point2D that) {
             Comparator c = val.Y_ORDER;
@@ -219,36 +196,35 @@ public class KdTree {
         }
 
         @Override
-        public String toString() {
-            return " x = " + val.x() + ", y = " + val.y()
-                        + ", color = " + color;
-        }
-     }
+        public String toString() { return " x = " + val.x() + ", y = " + val.y(); }
+    }
 
     // unit testing of the methods (optional)
     public static void main(String[] args) {
         KdTree kd = new KdTree();
         Point2D p1 = new Point2D(0.3, 0.3);
-        Point2D p2 = new Point2D(0.2, 0.3);
-        Point2D p3 = new Point2D(0.4, 0.3);
-        Point2D p4 = new Point2D(0.5,0.2);
-        Point2D p5 = new Point2D(0.5, 0.4);
+        Point2D p2 = new Point2D(0.2, 0.6);
+        Point2D p3 = new Point2D(0.7, 0.3);
+        Point2D p4 = new Point2D(0.5, 0.2);
+        Point2D p5 = new Point2D(0.6, 0.4);
 
         kd.insert(p1);
-        kd.show();
         kd.insert(p2);
-        kd.show();
         System.out.println(kd.contains(p3));
         kd.insert(p3);
         System.out.println(kd.contains(p3));
-        kd.show();
         kd.insert(p4);
-        kd.show();
         kd.insert(p5);
         kd.show();
 
         Point2D searchPoint = new Point2D(0.5,0.4);
         System.out.println("nearest to " + searchPoint + " is " + kd.nearest(searchPoint));
 
+        RectHV searchRect = new RectHV(0.2, 0.2, 0.7, 0.5);
+        System.out.println("searching intersections" + searchRect);
+        Iterable<Point2D> rangeSearchResults = kd.range(searchRect);
+        for (Point2D p : rangeSearchResults) {
+            System.out.println(p + " is in range");
+        }
     }
 }
