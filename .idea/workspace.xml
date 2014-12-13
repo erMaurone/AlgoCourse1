@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2d.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git" />
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
