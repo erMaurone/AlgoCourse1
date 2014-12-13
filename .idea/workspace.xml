@@ -1,83 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
+    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SimpleBFS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph-ambiguous-ancestor.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph-wordnet.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms100-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms1000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms10000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms100K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms11AmbiguousAncestor.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms11ManyPathsOneAncestor.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Path.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms200K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms300K.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms3InvalidCycle.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms3InvalidTwoRoots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms500-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms5000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms50000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidCycle+Path.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidCycle.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidTwoRoots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6TwoAncestors.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms8ManyAncestors.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms8WrongBFS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernymsManyPathsOneAncestor.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast10a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast12a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8c.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast9a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets100-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets1000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets10000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets500-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets5000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets50000-subgraph.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets8.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/router_conf.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AlgoCourse1.iml" afterPath="$PROJECT_DIR$/AlgoCourse.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2d.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
@@ -98,7 +24,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418498414467" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418499425903" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -339,6 +265,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="PointSET.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="39" selection-start="199" selection-end="199" vertical-scroll-proportion="0.23752496">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SAP.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -367,10 +302,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Outcast.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Outcast.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.66267467">
+            <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -435,7 +370,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" />
@@ -451,6 +385,7 @@
         <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java" />
         <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" />
         <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
       </list>
     </option>
   </component>
@@ -800,7 +735,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="convexHull" />
+              <option name="myItemId" value="assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -826,37 +761,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="convexHull" />
+              <option name="myItemId" value="assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="patternRecognition" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemId" value="kdTrees" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -883,10 +792,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algoCourse2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="worldnet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -908,7 +813,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../roombaComm" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1491,7 +1396,11 @@
       <created>1417896149113</created>
       <updated>1417896149113</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="course2 - lesson1 - WordNet - DAG graphs">
+      <created>1418498572663</created>
+      <updated>1418498572663</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1588,7 +1497,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="course2 - lesson1 - WordNet - DAG graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="resync'ing with git" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1614,6 +1523,7 @@
     <MESSAGE value="lesson 4 - assignment puzzles" />
     <MESSAGE value="lesson 5 - geometry red-black trees" />
     <MESSAGE value="course2 - lesson1 - WordNet - DAG graphs" />
+    <MESSAGE value="resync'ing with git" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1657,13 +1567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets15.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="4" selection-start="144" selection-end="145" vertical-scroll-proportion="0.5483871">
@@ -1795,10 +1698,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.66267467">
+        <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="39" selection-start="199" selection-end="199" vertical-scroll-proportion="0.23752496">
+          <folding />
         </state>
       </provider>
     </entry>
