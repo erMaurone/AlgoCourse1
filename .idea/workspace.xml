@@ -2,32 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSet.java" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10.png" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle10.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle100.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle100.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle1000.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle1000.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10000.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle10000.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle10k.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle10k.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/circle4.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle4.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/horizontal8.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/horizontal8.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input100K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input100K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input10K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input10K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input1M.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input1M.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input200K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input200K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input20K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input20K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input400K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input400K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input40K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input40K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input800K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input800K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/input80K.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input80K.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/lesson5kdTreeTesting/kdtree/vertical7.txt" afterPath="$PROJECT_DIR$/src/main/resources/lesson5/kdtree/vertical7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SimpleBFS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph-ambiguous-ancestor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph-wordnet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms100-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms1000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms10000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms100K.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms11AmbiguousAncestor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms11ManyPathsOneAncestor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Path.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms200K.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms300K.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms3InvalidCycle.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms3InvalidTwoRoots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms500-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms5000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms50000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidCycle+Path.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidCycle.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6InvalidTwoRoots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms6TwoAncestors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms8ManyAncestors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms8WrongBFS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernymsManyPathsOneAncestor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast10a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast12a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8b.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8c.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast9a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets100-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets1000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets10000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets500-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets5000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets50000-subgraph.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets8.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/router_conf.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AlgoCourse1.iml" afterPath="$PROJECT_DIR$/AlgoCourse.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417819960021" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418497792154" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -42,7 +98,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417789044303" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418498414467" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -58,7 +114,7 @@
     <file path="/Out.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414751421419" ignored="false" />
     <file path="/Topological.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414752622909" ignored="false" />
     <file path="/PercolationExperimentTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415040589550" ignored="false" />
-    <file path="/a.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415044224849" ignored="false" />
+    <file path="/a.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418472057274" ignored="false" />
     <file path="/PercolationStats.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415226663955" ignored="false" />
     <file path="/PercolationStatsTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228192269" ignored="false" />
     <file path="/PercolationVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1415228797542" ignored="false" />
@@ -91,7 +147,7 @@
     <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416921168960" ignored="false" />
     <file path="/SolverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416754870963" ignored="false" />
     <file path="/PuzzleChecker.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416749460623" ignored="false" />
-    <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416845598293" ignored="false" />
+    <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418470127850" ignored="false" />
     <file path="/MergeTopDown.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416841615539" ignored="false" />
     <file path="/PointSet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437460176" ignored="false" />
     <file path="/RectHV.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437403170" ignored="false" />
@@ -105,6 +161,22 @@
     <file path="/Fibonacci.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417535362561" ignored="false" />
     <file path="/KdTreeVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417694980679" ignored="false" />
     <file path="/PointSETVisualizer.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417695088016" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417980080776" ignored="false" />
+    <file path="/RoombaCommTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417980078917" ignored="false" />
+    <file path="/SAP.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418479186852" ignored="false" />
+    <file path="/SAPTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418398645254" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/ConstructorTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418148937977" ignored="false" />
+    <file path="/ConstructorTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418148933976" ignored="false" />
+    <file path="/SimpleBFS.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418294345221" ignored="false" />
+    <file path="/SET.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418293589373" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/runit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/RoombaCommTest.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464541667" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418467995197" ignored="false" />
+    <file path="/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464517447" ignored="false" />
+    <file path="/WordNet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418484809880" ignored="false" />
+    <file path="/Outcast.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418498073018" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,6 +308,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" line="40" class="algoCourse2.lesson1.assignment.worldnet.WordNet" package="algoCourse2.lesson1.assignment.worldnet">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
@@ -252,58 +339,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PointSET.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
+      <file leaf-file-name="SAP.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="33" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KdTree.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="50" selection-start="7038" selection-end="7038" vertical-scroll-proportion="6.1844826">
+            <state line="29" column="58" selection-start="783" selection-end="833" vertical-scroll-proportion="82.77778">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3240#3249#0" expanded="true" />
+                <element signature="e#451#462#0" expanded="true" />
+                <element signature="e#538#555#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RectHV.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java">
+      <file leaf-file-name="WordNet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="13" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+            <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#568#585#0" expanded="true" />
+                <element signature="e#646#667#0" expanded="true" />
+                <element signature="e#1783#1794#0" expanded="true" />
+                <element signature="e#4452#4461#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Outcast.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.66267467">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outcast8.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KdTreeVisualizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java">
+      <file leaf-file-name="hypernyms15Tree.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="57" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SAPTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="9.444445">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Point2D.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Point2D.java">
+      <file leaf-file-name="Digraph.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="25" selection-start="4635" selection-end="4635" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NearestNeighborVisualizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
+            <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -327,22 +435,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/BoardTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/scribble" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/mergeSort/MergeTopDown.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" />
-        <option value="$PROJECT_DIR$/src/test/java/lesson4/assignment/puzzle/SolverTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Board.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse1/assignment/kdTrees/KdTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/BreadthFirstDirectedPaths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/SET.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SimpleBFS.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/algo2/lesson1/digraph5.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WorldNet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" />
       </list>
     </option>
   </component>
@@ -371,10 +479,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="53" />
-    <option name="width" value="1387" />
-    <option name="height" value="839" />
+    <option name="x" value="25" />
+    <option name="y" value="35" />
+    <option name="width" value="1427" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -601,10 +709,6 @@
               <option name="myItemId" value="AlgoCourse1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -627,14 +731,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -678,32 +774,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kdtree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -730,11 +800,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testClients" />
+              <option name="myItemId" value="convexHull" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -760,7 +826,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
+              <option name="myItemId" value="convexHull" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patternRecognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -774,7 +844,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldnet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -796,9 +908,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/princeton/algs4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../roombaComm" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -813,35 +925,39 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="algoCourse2.lesson1.assignment.worldnet" />
       <recent name="lesson4.assignment.puzzle" />
       <recent name="lesson2.randomizedQueuesDeques" />
       <recent name="lesson1.MonteCarloPerculations" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/lesso4TestPuzzles" />
       <recent name="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/algo2/lesson1" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algoCourse1" />
       <recent name="lesson5.assignment.testClients" />
       <recent name="lesson2.assignment" />
       <recent name="lesson1.assignment" />
       <recent name="lesson2.dataStructures" />
-      <recent name="princeton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KdTreeVisualizer">
-    <configuration default="false" name="KdTreeVisualizer" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Outcast">
+    <configuration default="false" name="WordNet" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
+          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.KdTreeVisualizer" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.WordNet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -850,7 +966,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
+      <module name="AlgoCourse" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -862,24 +978,52 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="KdTree" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Outcast" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5.assignment.kdTrees.*" />
+          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.kdTrees.KdTree" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.Outcast" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/algo2/lesson1/synsets.txt src/main/resources/algo2/lesson1/hypernyms.txt src/main/resources/algo2/lesson1/outcast5.txt src/main/resources/algo2/lesson1/outcast8.txt src/main/resources/algo2/lesson1/outcast11.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
+      <module name="AlgoCourse" />
       <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SAPTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -890,68 +1034,64 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="PointSETVisualizer" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="SAPTest.testLengthAncestor9" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
+          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.PointSETVisualizer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <module name="AlgoCourse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
+      <option name="METHOD_NAME" value="testLengthAncestor9" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="NearestNeighborVisualizer" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="SAPTest.testLengthAncestor2" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
+          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.NearestNeighborVisualizer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="src/main/resources/lesson5/kdtree/input10k.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <module name="AlgoCourse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
+      <option name="METHOD_NAME" value="testLengthAncestor2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RangeSearchVisualizer" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lesson5.assignment.testClients.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5.assignment.testClients.RangeSearchVisualizer" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="src/main/resources/lesson5/kdtree/input10k.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
-      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1088,11 +1228,11 @@
     <configuration default="false" name="ThreeSumDeluxe" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson1.*" />
+          <option name="PATTERN" value="algoCourse1.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson1.ThreeSum.ThreeSumDeluxe" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse.lesson1.ThreeSum.ThreeSumDeluxe" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="src/main/resources/generated_10000_ints.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1101,7 +1241,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse1" />
+      <module name="AlgoCourse" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1141,20 +1281,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KdTreeVisualizer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KdTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PointSETVisualizer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NearestNeighborVisualizer" />
-      <item index="5" class="java.lang.String" itemvalue="Application.RangeSearchVisualizer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WordNet" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Outcast" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SAPTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor9" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor2" />
       <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.KdTreeVisualizer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PointSETVisualizer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RangeSearchVisualizer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NearestNeighborVisualizer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KdTree" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Outcast" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WordNet" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SAPTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor9" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1347,7 +1487,11 @@
       <created>1417789059299</created>
       <updated>1417789059299</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="lesson 5 - geometry red-black trees">
+      <created>1417896149113</created>
+      <updated>1417896149113</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1371,31 +1515,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="53" width="1387" height="839" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="35" width="1427" height="852" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42200556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5102599" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5626741" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5307798" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44923505" sideWeight="0.5007669" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58774376" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23392613" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27116105" sideWeight="0.6239554" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25163636" sideWeight="0.7387141" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28539327" sideWeight="0.88997215" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11002786" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30327272" sideWeight="0.7660739" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3255814" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1444,7 +1588,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 5 - geometry red-black trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="course2 - lesson1 - WordNet - DAG graphs" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1469,6 +1613,7 @@
     <MESSAGE value="lesson 3 - assignment PART 1" />
     <MESSAGE value="lesson 4 - assignment puzzles" />
     <MESSAGE value="lesson 5 - geometry red-black trees" />
+    <MESSAGE value="course2 - lesson1 - WordNet - DAG graphs" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1512,115 +1657,147 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="15" selection-start="1566" selection-end="1566" vertical-scroll-proportion="0.0">
+        <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson4/assignment/puzzle/Solver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets15.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+        <state line="14" column="4" selection-start="144" selection-end="145" vertical-scroll-proportion="0.5483871">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="24" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/StdDraw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="879" column="0" selection-start="34703" selection-end="34703" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="61" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="57" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Point2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="25" selection-start="4635" selection-end="4635" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/RectHV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input10K.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.293269">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5/kdtree/vertical7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5/kdtree/input1M.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-40864.63">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="33" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lesson5/kdtree/circle10.png">
-      <provider selected="true" editor-type-id="images">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets11.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="50" selection-start="7038" selection-end="7038" vertical-scroll-proportion="6.1844826">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets100-subgraph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="9.444445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="875" column="62" selection-start="94422" selection-end="94422" vertical-scroll-proportion="-5100.443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5025.4966">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="58" selection-start="783" selection-end="833" vertical-scroll-proportion="82.77778">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3240#3249#0" expanded="true" />
+            <element signature="e#451#462#0" expanded="true" />
+            <element signature="e#538#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#568#585#0" expanded="true" />
+            <element signature="e#646#667#0" expanded="true" />
+            <element signature="e#1783#1794#0" expanded="true" />
+            <element signature="e#4452#4461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.66267467">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

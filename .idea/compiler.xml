@@ -25,6 +25,7 @@
         <module name="AlgoCourse1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.7" />
   </component>
   <component name="JavacSettings">
     <option name="MAXIMUM_HEAP_SIZE" value="256" />
