@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git" />
+    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/10x12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/12x10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/3x7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/4x6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/5x6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/6x5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/7x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJocean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJoceanTransposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418497792154" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901856337" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -20,7 +34,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418499425903" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901851874" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -99,7 +113,8 @@
     <file path="/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464517447" ignored="false" />
     <file path="/WordNet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418484809880" ignored="false" />
     <file path="/Outcast.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418498073018" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418507718989" ignored="false" />
+    <file path="/SeamCarver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901679496" ignored="false" />
+    <file path="/SeamCarverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418898893356" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,24 +277,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PointSET.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PointSET.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="39" selection-start="199" selection-end="199" vertical-scroll-proportion="0.23752496">
-              <folding />
+            <state line="18" column="57" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1267#1276#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SAP.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java">
+      <file leaf-file-name="SeamCarver.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="58" selection-start="783" selection-end="833" vertical-scroll-proportion="82.77778">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#451#462#0" expanded="true" />
-                <element signature="e#538#555#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeamCarverTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="184" column="29" selection-start="7768" selection-end="7768" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResizeDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="47" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Picture.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Picture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="208" column="0" selection-start="6941" selection-end="6941" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -310,45 +357,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outcast8.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hypernyms15Tree.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SAPTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="9.444445">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Digraph.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -367,10 +375,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java" />
         <option value="$PROJECT_DIR$/src/main/java/algoCourse1/assignment/kdTrees/KdTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/KdTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/princeton/algs4/BreadthFirstDirectedPaths.java" />
@@ -383,6 +387,10 @@
         <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" />
         <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" />
         <option value="$PROJECT_DIR$/src/main/java/lesson3/convexHull/Point2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java" />
       </list>
     </option>
   </component>
@@ -412,9 +420,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="21" />
-    <option name="y" value="71" />
-    <option name="width" value="1427" />
-    <option name="height" value="852" />
+    <option name="y" value="37" />
+    <option name="width" value="1394" />
+    <option name="height" value="851" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -665,6 +673,70 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seamCarving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -706,6 +778,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algo2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seamCarving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algo2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -732,7 +860,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
+              <option name="myItemId" value="princeton" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -758,11 +886,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
+              <option name="myItemId" value="algoCourse2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kdTrees" />
+              <option name="myItemId" value="testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -828,6 +956,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="algoCourse2.lesson2.assignment.seamCarving" />
       <recent name="algoCourse2.lesson1.assignment.worldnet" />
       <recent name="lesson4.assignment.puzzle" />
       <recent name="lesson2.randomizedQueuesDeques" />
@@ -841,55 +970,28 @@
       <recent name="$PROJECT_DIR$/src/main/java/princeton/algs4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/algo2/seamCarving" />
       <recent name="$PROJECT_DIR$/src/main/resources/algo2/lesson1" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algoCourse2.lesson2.assignment.seamCarving.testing" />
       <recent name="algoCourse1" />
       <recent name="lesson5.assignment.testClients" />
       <recent name="lesson2.assignment" />
       <recent name="lesson1.assignment" />
-      <recent name="lesson2.dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Outcast">
-    <configuration default="false" name="WordNet" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="JUnit.SeamCarverTest">
+    <configuration default="false" name="ResizeDemo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
+          <option name="PATTERN" value="algoCourse2.lesson2.assignment.seamCarving.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.WordNet" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgoCourse" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Outcast" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.Outcast" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson2.assignment.seamCarving.testing.ResizeDemo" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="src/main/resources/algo2/lesson1/synsets.txt src/main/resources/algo2/lesson1/hypernyms.txt src/main/resources/algo2/lesson1/outcast5.txt src/main/resources/algo2/lesson1/outcast8.txt src/main/resources/algo2/lesson1/outcast11.txt" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/algo2/seamCarving/HJocean.png 40 70" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -898,95 +1000,117 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="AlgoCourse" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SAPTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamInvariant" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
+          <option name="PATTERN" value="algoCourse2.lesson2.assignment.seamCarving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="AlgoCourse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
-      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson2.assignment.seamCarving" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson2.assignment.seamCarving.SeamCarverTest" />
+      <option name="METHOD_NAME" value="testIllegalArgRemoveVerticalSeamSeamInvariant" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamSize" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algoCourse2.lesson2.assignment.seamCarving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson2.assignment.seamCarving" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson2.assignment.seamCarving.SeamCarverTest" />
+      <option name="METHOD_NAME" value="testIllegalArgRemoveVerticalSeamSeamSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SeamCarverTest.testIllegalArgRemoveHorizontalSeamSmallImage" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algoCourse2.lesson2.assignment.seamCarving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson2.assignment.seamCarving" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson2.assignment.seamCarving.SeamCarverTest" />
+      <option name="METHOD_NAME" value="testIllegalArgRemoveHorizontalSeamSmallImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SeamCarverTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algoCourse2.lesson2.assignment.seamCarving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AlgoCourse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="algoCourse2.lesson2.assignment.seamCarving" />
+      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson2.assignment.seamCarving.SeamCarverTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SAPTest.testLengthAncestor9" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="AlgoCourse" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
-      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
-      <option name="METHOD_NAME" value="testLengthAncestor9" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SAPTest.testLengthAncestor2" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algoCourse2.lesson1.assignment.worldnet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="AlgoCourse" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="algoCourse2.lesson1.assignment.worldnet" />
-      <option name="MAIN_CLASS_NAME" value="algoCourse2.lesson1.assignment.worldnet.SAPTest" />
-      <option name="METHOD_NAME" value="testLengthAncestor2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -1183,20 +1307,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WordNet" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Outcast" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SAPTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor9" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ResizeDemo" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamInvariant" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamSize" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveHorizontalSeamSmallImage" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.SeamCarverTest" />
       <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Outcast" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WordNet" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SAPTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SAPTest.testLengthAncestor9" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SeamCarverTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ResizeDemo" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveHorizontalSeamSmallImage" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamSize" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamInvariant" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1421,31 +1545,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="71" width="1427" height="852" extended-state="0" />
+    <frame x="21" y="37" width="1394" height="851" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5102599" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33972603" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5307798" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40958905" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44923505" sideWeight="0.5007669" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23392613" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23287672" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25163636" sideWeight="0.7387141" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25019306" sideWeight="0.5214979" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30327272" sideWeight="0.7660739" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3255814" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31073025" sideWeight="0.36301368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6369863" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1564,114 +1688,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets15.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="144" selection-end="145" vertical-scroll-proportion="0.5483871">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets11.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets8.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets6.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets100-subgraph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="9.444445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/synsets.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="875" column="62" selection-start="94422" selection-end="94422" vertical-scroll-proportion="-5100.443">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5025.4966">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/hypernyms15Tree.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="58" selection-start="783" selection-end="833" vertical-scroll-proportion="82.77778">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#451#462#0" expanded="true" />
-            <element signature="e#538#555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#568#585#0" expanded="true" />
-            <element signature="e#646#667#0" expanded="true" />
-            <element signature="e#1783#1794#0" expanded="true" />
-            <element signature="e#4452#4461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8a.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1704,8 +1720,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="39" selection-start="199" selection-end="199" vertical-scroll-proportion="0.23752496">
+        <state line="18" column="57" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1267#1276#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/3x7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/12x10.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/10x12.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#568#585#0" expanded="true" />
+            <element signature="e#646#667#0" expanded="true" />
+            <element signature="e#1783#1794#0" expanded="true" />
+            <element signature="e#4452#4461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/princeton/stdlib/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="208" column="0" selection-start="6941" selection-end="6941" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJocean.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJoceanTransposed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="47" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="184" column="29" selection-start="7768" selection-end="7768" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
