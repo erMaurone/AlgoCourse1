@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="resync'ing with git">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/10x12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/12x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/3x7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/4x6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/5x6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/6x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/7x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJocean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/algo2/seamCarving/HJoceanTransposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ec9f8567-9732-40f3-aab9-de0278c4d9fb" name="Default" comment="" />
     <ignored path="AlgoCourse1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/ThreeSum.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414523529772" ignored="false" />
-    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901856337" ignored="false" />
+    <file path="/fragment.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420969717402" ignored="false" />
     <file path="/In.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414518106244" ignored="false" />
     <file path="/Stopwatch.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414519744392" ignored="false" />
     <file path="/FileOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414577907396" ignored="false" />
@@ -34,7 +20,7 @@
     <file path="/WeightedQuickUnionPathCompression.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414605370724" ignored="false" />
     <file path="/BinaryIn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608745457" ignored="false" />
     <file path="/BinaryOut.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414608825918" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901851874" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1447200476135" ignored="false" />
     <file path="/PercolationWeightedQuick.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414690572694" ignored="false" />
     <file path="/PercolationQuickUnion.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414669206686" ignored="false" />
     <file path="/AbstractPercolation.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1414748889623" ignored="false" />
@@ -83,7 +69,7 @@
     <file path="/Solver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416921168960" ignored="false" />
     <file path="/SolverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416754870963" ignored="false" />
     <file path="/PuzzleChecker.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416749460623" ignored="false" />
-    <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418470127850" ignored="false" />
+    <file path="/*.regexp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419346710158" ignored="false" />
     <file path="/MergeTopDown.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1416841615539" ignored="false" />
     <file path="/PointSet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437460176" ignored="false" />
     <file path="/RectHV.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1417437403170" ignored="false" />
@@ -105,16 +91,190 @@
     <file path="/ConstructorTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418148933976" ignored="false" />
     <file path="/SimpleBFS.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418294345221" ignored="false" />
     <file path="/SET.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418293589373" ignored="false" />
-    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/runit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
-    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
-    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/RoombaCommTest.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464126493" ignored="false" />
-    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464541667" ignored="false" />
-    <file path="$PROJECT_DIR$/../roombaComm/trunk/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418467995197" ignored="false" />
-    <file path="/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418464517447" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/runit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/RoombaCommTest.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420676033099" ignored="false" />
+    <file path="/build.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420673871473" ignored="false" />
     <file path="/WordNet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418484809880" ignored="false" />
     <file path="/Outcast.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418498073018" ignored="false" />
     <file path="/SeamCarver.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418901679496" ignored="false" />
     <file path="/SeamCarverTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1418898893356" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/pom.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419290941076" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/WEB-INF/web.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420972529669" ignored="false" />
+    <file path="/web.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420972508906" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/main/java/com/hackingroomba/roombacomm/web/HelloServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419342660570" ignored="false" />
+    <file path="$PROJECT_DIR$/../webModule/.idea/workspace.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419341305337" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/TODO.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542424" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/build-jar.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343608317" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/makedoc.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542424" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/RoombaCommTest.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542424" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/one.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/makedoc.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/makeit.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/makeit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/BumpTurn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/makedoc.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Waggle.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/RoombaCommTest.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-jar.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/build-jar.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343608317" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/SimpleTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/one.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/build-processing-library.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344431197" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/AudioLocalizerClient.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/makedoc.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344431197" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Spiro2.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/makeit.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RobotConnection.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/packaging/Manifest.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/SpySimple.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/packaging/processing-export.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoombaComm.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RTTTLPlay.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-processing-library.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-jar.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/SpyAuto.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/RoombaCommTest.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/watchVideo.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/makeit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Spy.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RTTTLParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoombaCommPanel.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Test.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/ListSerialPorts.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoombaCommFrame.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/ArduinoBot.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/LogoA.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Drive.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoombaCommCLI.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/processing-export.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Spiral.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/Manifest.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Roborama.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/DriveRealTime.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoombaCommSerial.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Tribble.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/ArduinoClient.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/Spiro1.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/DirectoryStructure.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/net/SimpleTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/FileDescriptions.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344431197" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/net/DumpMethods.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343542425" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/ToDo.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343667146" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/CHANGELOG.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/README.windows.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/TODO.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/docs/SVN_Info.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/bin/AudioLocalizerClient.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/roombacomm/RoboRealmTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343667146" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/TODO.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/build-jar.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/makedoc.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/RoombaCommTest.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/one.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/makedoc.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/makeit.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/makeit.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/BumpTurn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Waggle.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/RoombaCommTest.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/build-jar.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/SimpleTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/build-processing-library.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/AudioLocalizerClient.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Spiro2.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RobotConnection.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/packaging/Manifest.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/SpySimple.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/packaging/processing-export.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaComm.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1421001770750" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RTTTLPlay.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/SpyAuto.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/watchVideo.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Spy.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RTTTLParser.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommPanel.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419346405623" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Test.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/ListSerialPorts.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommFrame.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420676772573" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/ArduinoBot.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/LogoA.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Drive.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommCLI.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Spiral.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Roborama.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/DriveRealTime.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommSerial.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1421003352196" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Tribble.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/ArduinoClient.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/Spiro1.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343766501" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/net/SimpleTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/net/DumpMethods.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419343739182" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/indexTest.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419345145240" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/com/packaging/BSquare-jar.xml" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344085901" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/com/scripts/build-processing-library.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/com/scripts/build-processing-library.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/com/scripts/build-jar.sh" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/com/scripts/build-jar.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344340547" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoboRealmTest.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419344368416" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/indexTest.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419349801668" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/roomba.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419354007788" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/RoombaApplet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419362536544" ignored="false" />
+    <file path="/roomba.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419360459441" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/roomba.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419361882959" ignored="false" />
+    <file path="/RoombaApplet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1419362534205" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/roombacomm.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420136280674" ignored="false" />
+    <file path="/roombacomm.html" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420136280674" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/ImagesServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420133333632" ignored="false" />
+    <file path="/ImagesServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420129969407" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/RoombaServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420138096841" ignored="false" />
+    <file path="/RoombaServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420140655155" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/DirectionServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1421001345718" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/roombacomm.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420140774689" ignored="false" />
+    <file path="/roombacomm.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420974502768" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/WEB-INF/jsp/roombacomm.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420986871943" ignored="false" />
+    <file path="/DirectionServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1421001289249" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/web/WEB-INF/jsp/roombaOut.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420214361176" ignored="false" />
+    <file path="/roombaOut.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420214202149" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/ControlsServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420410599203" ignored="false" />
+    <file path="/ControlsServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420408652063" ignored="false" />
+    <file path="/RoombaComm.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420410398108" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/RoombaContextListener.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420977177902" ignored="false" />
+    <file path="/RoombaContextListener.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420977119287" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/log4j.properties" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420409802916" ignored="false" />
+    <file path="/log4j.properties" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420801238511" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/log4j.properties" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420801631843" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/log4j.properties" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420800536473" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/processing-examples/roombaview/libraries/MyGUI/MyGUI_readme.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/WEB-INF/jsp/roombaOut.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420675895115" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/Makefile" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/processing-readme.txt" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/WEB-INF/jsp/indexTest.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/processing-examples/roombaview/roombaview.pde" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420675895115" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/WEB-INF/jsp/roombacomm.jsp" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420760571509" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/RoombaCommTest.app/Contents/PkgInfo" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/RoombaCommTest.app/Contents/Info.plist" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/RoombaCommTest.app/Contents/MacOS/JavaApplicationStub" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/processing-examples/roombaring/roombaring.pde" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420675895115" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/processing-examples/roombatune/roombatune.pde" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/runit.bat" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420670434302" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/JWPlayerServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420760369453" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/CameraServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420822623625" ignored="false" />
+    <file path="/CameraServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420803703062" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/CameraServletOn.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420823071436" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/CameraOnServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420970131767" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/CameraOffServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420969705318" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/servos/ServoController.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420930813306" ignored="false" />
+    <file path="/ServoController.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420927286174" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/web/PanTiltServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420976847373" ignored="false" />
+    <file path="/PanTiltServlet.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1420976847373" ignored="false" />
+    <file path="/RoombaCommSerial.java" changelist="ec9f8567-9732-40f3-aab9-de0278c4d9fb" time="1421003351871" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,42 +294,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/utils/IntFileGenerator.java" line="38" class="utils.IntFileGenerator" package="utils">
         <option name="ENABLED" value="true" />
@@ -262,6 +386,42 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -280,22 +440,17 @@
       <file leaf-file-name="PointSET.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="57" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1267#1276#0" expanded="false" />
-              </folding>
+            <state line="18" column="39" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeamCarver.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SeamCarver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="12" column="25" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -304,20 +459,16 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="184" column="29" selection-start="7768" selection-end="7768" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResizeDemo.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ResizeDemo.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="47" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="56" column="98" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.8161094">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -335,13 +486,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#568#585#0" expanded="true" />
-                <element signature="e#646#667#0" expanded="true" />
-                <element signature="e#1783#1794#0" expanded="true" />
-                <element signature="e#4452#4461#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -349,10 +494,8 @@
       <file leaf-file-name="Outcast.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="41" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -419,8 +562,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="37" />
+    <option name="x" value="16" />
+    <option name="y" value="34" />
     <option name="width" value="1394" />
     <option name="height" value="851" />
   </component>
@@ -642,6 +785,13 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="All" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -707,36 +857,6 @@
               <option name="myItemId" value="algoCourse2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seamCarving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algoCourse2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -785,36 +905,6 @@
               <option name="myItemId" value="algo2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seamCarving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algo2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -860,7 +950,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="princeton" />
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoCourse1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algoCourse2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -890,44 +1006,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgoCourse1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algoCourse2" />
+              <option name="myItemId" value="worldnet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Default" />
-        <subPane subId="All" />
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -940,19 +1023,19 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../roombaComm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../roombaComm/trunk/roombacomm-trunk.iml" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1158,6 +1241,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1184,19 +1280,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1307,12 +1390,12 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.ThreeSumDeluxe" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ResizeDemo" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamInvariant" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamSize" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveHorizontalSeamSmallImage" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.SeamCarverTest" />
-      <item index="6" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.AlgoCourse1 [compile]" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ResizeDemo" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamInvariant" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveVerticalSeamSeamSize" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.SeamCarverTest.testIllegalArgRemoveHorizontalSeamSmallImage" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.SeamCarverTest" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -1521,7 +1604,11 @@
       <created>1418498572663</created>
       <updated>1418498572663</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="algo2 - lesson 2 assignment = carving pictures">
+      <created>1418902052385</created>
+      <updated>1418902052385</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1545,14 +1632,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="37" width="1394" height="851" extended-state="0" />
+    <frame x="16" y="34" width="1394" height="851" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33972603" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981844" sideWeight="0.6008345" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40958905" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1561,18 +1647,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25652984" sideWeight="0.27260083" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23287672" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25019306" sideWeight="0.5214979" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.064417176" sideWeight="0.5521558" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31073025" sideWeight="0.36301368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42771983" sideWeight="0.36301368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6369863" sideWeight="0.49923313" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33972603" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23287672" sideWeight="0.70858896" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991655" sideWeight="0.8488806" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1618,7 +1705,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="resync'ing with git" />
+    <option name="LAST_COMMIT_MESSAGE" value="algo2 - lesson 2 assignment = carving pictures" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1645,6 +1732,7 @@
     <MESSAGE value="lesson 5 - geometry red-black trees" />
     <MESSAGE value="course2 - lesson1 - WordNet - DAG graphs" />
     <MESSAGE value="resync'ing with git" />
+    <MESSAGE value="algo2 - lesson 2 assignment = carving pictures" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -1688,51 +1776,33 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8a.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="41" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/lesson1/outcast8.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="43" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lesson5/assignment/kdTrees/PointSET.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="57" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1267#1276#0" expanded="false" />
-          </folding>
+        <state line="18" column="39" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/princeton/algs4/Digraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="83" column="11" selection-start="2810" selection-end="2810" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/algo2/seamCarving/3x7.png">
@@ -1753,13 +1823,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="173" column="0" selection-start="6190" selection-end="6347" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#568#585#0" expanded="true" />
-            <element signature="e#646#667#0" expanded="true" />
-            <element signature="e#1783#1794#0" expanded="true" />
-            <element signature="e#4452#4461#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1780,30 +1844,31 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="47" selection-start="1523" selection-end="1523" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/algoCourse2/lesson2/assignment/seamCarving/SeamCarverTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="184" column="29" selection-start="7768" selection-end="7768" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/SeamCarver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="12" column="25" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algoCourse2/lesson2/assignment/seamCarving/testing/ResizeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="98" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.8161094">
+          <folding />
         </state>
       </provider>
     </entry>
