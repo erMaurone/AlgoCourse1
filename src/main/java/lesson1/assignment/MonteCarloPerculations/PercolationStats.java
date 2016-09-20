@@ -1,8 +1,9 @@
 package lesson1.assignment.MonteCarloPerculations;
 
 
-import princeton.stdlib.StdRandom;
 import princeton.stdlib.StdStats;
+import princeton.stdlib.StdRandom;
+
 
 public class PercolationStats {
 
@@ -20,9 +21,9 @@ public class PercolationStats {
         numberOfExperiments = T;
         gridSize = N;
         testResults = new double[numberOfExperiments];
-        experiments = new PercolationExperiment[numberOfExperiments];
+        experiments = new Percolation[numberOfExperiments];
         for (int i = 0; i < T; i++)
-            experiments[i] = new PercolationExperiment(gridSize);
+            experiments[i] = new Percolation(gridSize);
         runExperiments();
     }
 
