@@ -5,12 +5,6 @@ import princeton.stdlib.StdRandom;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-/**
- * Created with IntelliJ IDEA.
- * User: mauro
- * Date: 09/11/2014
- * Time: 00:37
- */
 
 /**
  * invariants
@@ -19,13 +13,13 @@ import java.util.NoSuchElementException;
  * 3) whenever adding or removing an item array continuity is preserved
  */
 
-public class RandomizedGenericQueue<Item> {
+public class RandomizedQueue<Item> {
     int head, tail;
     Item items[];
 
     // construct an empty randomized queue
     @SuppressWarnings("unchecked")
-    public RandomizedGenericQueue() {
+    public RandomizedQueue() {
         items = (Item[])new Object[2];
     }
 
